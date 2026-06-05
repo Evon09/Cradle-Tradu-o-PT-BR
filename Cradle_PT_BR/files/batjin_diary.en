@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+	<dialog>
+		<batjin_diary_dlg_0 value="Diário do vovô Batjin. Dentro há várias notas breves. As duas páginas separadas pelo marcador estão densamente escritas. É uma mensagem para Enebish."/>
+
+		<batjin_diary_dlg_1_1 value="Vou ler apenas o que for endereçado a mim."/>
+
+		<batjin_diary_dlg_1_2 value="Vou ler todas as entradas."/>
+
+		<batjin_diary_dlg_2 value="18.08.58<br/>Ora, ora. Agora a casa do meu filho está vazia. Assim o destino decidiu. Não me queixo, também — a Providência sabe o que faz. O que me resta é rezar por eles. Parto amanhã de manhã. São mais de 200 milhas. Melhor não esquecer o cilindro de gás. Quando eu chegar, já estará escuro. O velório vai durar a noite inteira. E pela manhã eu terei ido embora, deixando tudo como está.<br/><br/>20.08.58<br/>A Providência tem um plano, com certeza. No qual meu papel é modesto. E quanto ao bebê? Claro, vou cuidar dele. Vou levá-lo comigo para Ulan-Bator. Não sou de me assustar facilmente."/>
+
+		<batjin_diary_dlg_3 value="Continuar."/>
+
+		<batjin_diary_dlg_4 value="23.08.58<br/>Não adianta adivinhar agora. Esta região não o deixará partir — não tenho dúvidas. Evidentemente, estamos destinados a viver aqui. Qual outra opção há? Só abandoná-lo, e isso eu não farei.<br/><br/>25.08.58<br/>Ele não quer tomar leite, não quer comer nada. O que devo alimentá-lo?<br/><br/>04.09.58<br/>Ele está crescendo tão rápido. Não é cedo demais para uma criança de duas semanas andar sozinha? E para onde ele foi durante a noite?"/>
+
+		<batjin_diary_dlg_5 value="Continuar."/>
+
+		<batjin_diary_dlg_6 value="25.09.58<br/>Não consigo descobrir o que ele encontrou. Algo como um dispositivo. Já faz três dias que ele está brincando com isso, arrastando pelo pó, mordendo. Acho que está nascendo os dentes.<br/><br/>02.10.58<br/>Ele parou de crescer, não mudou em uma semana. Uma criança de cinco anos está andando pela tenda. Continue andando, filho, sua aparência não me assusta. Mas como é que você se parece tanto com ele? Acho que isso não é para eu saber. A Providência tem um plano, no qual meu papel é modesto. Minha tarefa é rezar."/>
+
+		<batjin_diary_dlg_7 value="Continuar."/>
+
+		<batjin_diary_dlg_8 value="14.11.63<br/>Ontem passou uma nave aérea. Já fazia muito tempo que não víamos uma. Não consegui distinguir as pessoas dentro. Pode ser que seja usada para transporte de carga?<br/><br/>06.05.64<br/>Que encontro! Louvado seja a Providência, sua alma imprudente. Se não fosse por Enebish, você, Tabaha, ainda estaria deitado naquele canteiro de flores. Mas é uma ideia sólida para ganhar dinheiro. A passagem é grátis, o que sempre é bom. Não será preciso trocar os pneus do scooter. Vou vendê-lo."/>
+
+		<batjin_diary_dlg_9 value="Não há mais notas. Só resta a carta."/>
+
+		<batjin_diary_dlg_10 value="Enebish. Se você está lendo esta carta, isso significa que sua curiosidade o levou ao passado, aos seus antepassados. Os pertences de seus pais estão trancados em baús. Vou lhe dar a chave com a qual você poderá abri-los. Mas saiba disso: nenhuma coisa lhe dará respostas até que você tenha feito a si mesmo a pergunta certa.<br/><br/>De todos os caminhos possíveis, apenas um o levará a essa pergunta. Encontre esse único caminho verdadeiro, e que minha modesta ajuda possa facilitar sua busca."/>
+
+		<batjin_diary_dlg_11 value="Continuar."/>
+
+		<batjin_diary_dlg_12 value="Você precisará de um «raio de luz fantasmagórica» para iluminar seu caminho, e uma «pista sábia» para tomar a decisão certa na encruzilhada.<br/><br/>Nesta gaveta está um objeto arredondado — use-o para obter o raio de luz. Em um livro de sabedoria você encontrará a pista. Depois vá até meu túmulo, suba na maior pedra, e olhe ao redor usando o raio de luz. Olhe com cuidado, e você verá o local de onde começar seu caminho."/>
+
+		<batjin_diary_dlg_13 value="Uma pista e um raio de luz… Vou tentar encontrá-los."/>
+
+	</dialog>
+</dictionary>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+  <dialog>
+    <pda_password_0 value="Ler entradas?"/>
+    <pda_password_01 value="Não."/>
+    <pda_password_02 value="Não sei a senha."/>
+    <pda_password_02_1 value="As entradas vão esperar. Preciso mudar os Ongots primeiro."/>
+    <pda_password_03 value="Sim."/>
+    <pda_password_1 value="Sim."/>
+    <pda_password_2 value="Digite a senha:"/>
+    <pda_password_20 value="76 **"/>
+    <pda_password_201 value="Continue digitando:"/>
+    <pda_password_202 value="** 49"/>
+    <pda_password_203 value="** 08"/>
+    <pda_password_205 value="Senha incorreta."/>
+    <pda_password_206 value="Senha incorreta."/>
+    <pda_password_208 value="Sair."/>
+    <pda_password_209 value="Sair."/>
+    <pda_password_21 value="68 **"/>
+    <pda_password_210 value="Continue digitando:"/>
+    <pda_password_211 value="** 17"/>
+    <pda_password_212 value="** 24"/>
+    <pda_password_213 value="** 56"/>
+    <pda_password_214 value="Senha incorreta."/>
+    <pda_password_215 value="Continue digitando:"/>
+    <pda_password_216 value="Senha incorreta."/>
+    <pda_password_217 value="Sair."/>
+    <pda_password_218 value="Sair."/>
+    <pda_password_219 value="Sair."/>
+    <pda_password_22 value="20 **"/>
+    <pda_password_3 value="Continue digitando:"/>
+    <pda_password_30 value="** 48"/>
+    <pda_password_300 value="Senha incorreta."/>
+    <pda_password_301 value="Sair."/>
+    <pda_password_31 value="** 31"/>
+    <pda_password_310 value="Senha incorreta."/>
+    <pda_password_311 value="Sair."/>
+    <pda_password_32 value="** 53"/>
+    <pda_password_33 value="Acesso concedido."/>
+    <pda_password_34 value="Ok."/>
+    <pda_password_35 value="Agora eu tenho um diário. Obrigado, Tabaha.<br/><br/>Meu nome é Enebish. Sempre vivi aqui, porque não posso ir para outro lugar. O vovô Batjin diz que muitas pessoas costumavam viver por aqui, mas todas morreram quando o domo explodiu. A área está deserta desde então, exceto por mim, Batjin e Ongots.<br/><br/>Ongots tem garras muito poderosas. Ele obedecia meu pai e o ajudava a caçar lebres. Eu não lembro dos meus pais — eles também morreram na explosão."/>
+    <pda_password_36 value="Continuar."/>
+    <pda_password_37 value="Quando o vento sobe, fica bem frio. Você pode encontrar abrigo contra ele, mas não por muito tempo — não dá para ficar sem luz. Por isso, eu criei este colete transparente em camadas, como no programa sobre estufas. Ele mantém o Ongots aquecido durante o dia, e quando chega o frio da noite, coloco ele em outro colete quente.<br/><br/>Eu coleciono e digitalizo flores. Procuro as mais bonitas e faço fitocópias delas. Depois, Tabaha as leva para a cidade e as vende. O dinheiro o mantém, enquanto o vovô e eu compramos queijo."/>
+    <pda_password_38 value="Continuar."/>
+    <pda_password_39 value="Nós temos um novo genômetro. Ele mede tudo: flores, insetos, pessoas. Mediu o Batjin em 47 e a árvore perto do portão em 24. Até a banqueta foi medida, embora tenha demorado um pouco mais. Mas quando miramos no Ongots ou em mim, ainda aparece o mesmo erro. O vovô diz que é tudo Providência. Talvez ele esteja certo.<br/><br/>Eu tenho esse sonho de vez em quando. Estou em uma cidade estranha. O dia está caindo. As pessoas estão andando à distância. Tem alguém ao meu lado, mas não vejo quem. O sonho é fugaz, sempre me deixando com uma sensação estranha — como se eu devesse passar algo para alguém, mas nunca lembro o que ou para quem. Sinto uma mistura de ansiedade e desgosto, e isso me faz querer ir até lá, para essa cidade."/>
+    <pda_password_40 value="Continuar."/>
+    <pda_password_41 value="O vovô Batjin morreu. Ele queria fazer uma transferência depois de perder a visão e a mobilidade. Tabaha até trouxe o equipamento para ele, mas o vovô morreu enquanto dormia. Ele foi enterrado no local que ele havia pedido."/>
+    <pda_password_42 value="Continuar."/>
+    <pda_password_43 value="Amanhã marca o quarto aniversário do funeral do vovô. O que significa que eu já tenho vinte e três anos. Tudo ainda está o mesmo. Eu tentei sair de novo, mas não deu. Simplesmente perco a consciência, como antes.<br/><br/>Eu quero encontrar aquela cidade do meu sonho.<br/><br/>Talvez eu arrisque e faça uma transferência. O vovô não tem mais uso para seu capacete, mas eu posso precisar. Se eu tiver sorte, acordarei em um novo corpo em Ulan-Bator. Uma pena que o genômetro não mostre o meu número. Eu sei o quão perigoso isso é."/>
+    <pda_password_44 value="Continuar."/>
+    <pda_password_45 value="Quando olho para o cartaz sobre minha cama, por alguma razão me lembro dos meus brinquedos. Quando eu era criança, talvez uns cinco anos, eu tinha um brinquedo favorito — um estranho caixote espacial. O Ongots o encontrou em algum lugar e me trouxe.<br/><br/>Depois vi redemoinhos escuros no campo, fiquei com medo e escondi os brinquedos por algum motivo. E para ter certeza de que não esqueceria o local, inventei uma pista: «Saia da tenda e voe reto como o corvo. Em uma pedra com galho, procure uma seta. Uma árvore triste mostrará o caminho. Uma caixa na areia trará um mistério.»<br/><br/>Mas agora não consigo encontrar."/>
+    <pda_password_46 value="Sair."/>
+  </dialog>
+</dictionary>

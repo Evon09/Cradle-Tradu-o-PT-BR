@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+	<dialog>
+		<answer_dlg_0 value="Aqui você encontrará a resposta para sua pergunta."/>
+
+		<answer_dlg_1_1 value="Qual pergunta é essa?"/>
+
+		<answer_dlg_1_2 value="Quem sou eu?"/>
+
+		<answer_dlg_2 value="Isso mesmo, Enebish. «Quem sou eu?» é a pergunta que leva ao segredo do seu passado.<br/><br/>Você está a um passo de desvendar o mistério. Dos antigos e misteriosos acontecimentos cujo significado eu nunca compreendi até o final dos meus dias. Talvez apenas você esteja destinado a revelar o plano divino deles.<br/><br/>Eu te prometi uma chave para os baús que guardam os pertences dos seus pais. A chave está diante de você. E com ela, passo para você aquilo que guardei em minha memória por muitos anos."/>
+
+		<answer_dlg_3 value="Continuar."/>
+
+		<answer_dlg_4 value="Sim, as coisas nos baús pertencem a Dzhambul e Sarnay. No entanto, essas pessoas não são seus pais, nem seus parentes. Eles tiveram um filho próprio uma vez, mas ele morreu naquela explosão sob o domo. Ele tinha cinco anos e se chamava Chagatai.<br/><br/>Vários dias após a explosão, uma águia dourada chegou aqui, carregando um bebê humano. Ela colocou a criança no chão em frente à tenda. Você era aquele bebê, Enebish. Quem você é e de onde veio, eu não sei."/>
+
+		<answer_dlg_5 value="Continuar."/>
+
+		<answer_dlg_6 value="Desde aquele dia, a casa do meu falecido filho se tornou um refúgio para você e Ongots. Eu não me repugnei pela aparência estranha dos seus corpos — quem sou eu para julgar a Providência? O desespero veio um mês depois, quando as feições de Chagatai em seu rosto se tornaram inconfundíveis.<br/><br/>Adeus para sempre.<br/>Seu avô Batjin."/>
+
+		<answer_dlg_7 value="Sair."/>
+
+	</dialog>
+</dictionary>

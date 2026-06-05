@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+	<description>
+		<interaction_sign_desc		value="Você tem quatro meios diferentes de interagir com objetos. Cada um tem sua própria forma de cursor.<br/><br/>1. Olho. Ler texto.<br/>2. Parêntese. Pegar ou soltar objeto.<br/>3. Mira. Usar um objeto em outro.<br/>4. Balão de diálogo. Falar com o personagem."/>
+
+		<table_2_start_note_desc		value="Tabaha, engordei e agora estou com mal cheiro.<br/>Desligue o nariz e não olhe para mim.<br/><br/>Não me despedi de Ongots. Esperei por ele o dia todo, mas ele não voltou. Por favor, alimente-o e troque-o, para que ele não adoeça. Siga esta receita:<br/><br/>1. Aqueça a panela vermelha.<br/>2. Adicione um copo de água.<br/>3. Adicione alguns frutos de ameixeira cortados. Há muitos deles perto do lago.<br/>4. Adicione raiz seca. Mas não se esqueça de moer.<br/>5. Adicione sal e a água ficará laranja. Devolva o pote de sal ao seu lugar — à direita da pimenta, como o avô Batjin instruiu.<br/><br/>Cozinhe até ficar pronto — Ongots aparecerá assim que sentir o cheiro da comida. Pode vender tudo o que quiser. E jogue o corpo no rio. Não voltarei.<br/><br/>Enebish."/>
+
+		<table_2_transferer_desc		value="Manual de instruções do transferidor móvel.<br/><br/>Antes de usar:<br/>1. Ligue o dispositivo.<br/>2. Coloque um dedo na abertura para coleta de sangue.<br/>3. Aguarde até que a cópia genética seja concluída. Os dados serão transferidos automaticamente para o nosso centro.<br/>4. Lembre-se, apenas pessoas com QH (Quociente Hereditário) de 30 ou superior estão autorizadas a transferir. Se a verificação de QH for bem-sucedida e os dados forem enviados corretamente, nosso operador entrará em contato com você através do comunicador integrado.<br/>5. O operador realizará um diagnóstico e começará a escanear sua memória de longo prazo.<br/>6. O operador carregará seus dados para o centro de transferência.<br/><br/>Transferência:<br/>1. Coloque a palma da mão no botão de confirmação. Estabeleça contato visual com a imagem na tela-espelho. Você pode piscar, mas não desvie o olhar — isso é absolutamente crucial.<br/>2. A um sinal, a emulação automática da consciência será iniciada no receptor. Esteja preparado para um efeito incomum — você se verá do outro lado. Não fique nervoso, mantenha respirações profundas e regulares.<br/>3. A um sinal, pressione o botão de confirmação. Atenção: a etapa final é irreversível. Ao pressionar o botão de confirmação, você transfere o direito do original para o receptor!<br/><br/>Centro de Transferência Espelho Trinta Mais."/>
+
+		<table_2_geneva_postcard_desc		value="Cartão-postal com uma vista da cidade. Uma placa abaixo diz:<br/>«Genebra está feliz em receber hóspedes com qualquer quociente»."/>
+
+		<table_2_tranferer_log_desc		value="Texto na tela.<br/><br/>1:20 Ligar.<br/>1:21 Carregando sistemas básicos. Concluído.<br/>1:24 Carregando sistema operacional. Concluído.<br/>1:26 Executando diagnóstico do dispositivo. Concluído.<br/>1:30 Coleta de sangue. Concluída.<br/>1:53 Copiando genes. Concluído.<br/>1:54 Determinando QH. Erro.<br/>1:54 Continuar o procedimento NÃO é recomendado.<br/>2:02 Modo de operação manual. Concluído.<br/>2:06 Determinando QH. Erro.<br/>2:08 Determinando QH. Erro.<br/>2:10 Determinando QH. Erro.<br/>2:35 Transferindo genocópia. Concluído.<br/>4:01 Aguardando conexão com operador. Cancelada.<br/>4:30 Neurocópia. Concluída.<br/>4:45 Transferindo neurocópia. Concluída.<br/>4:48 Visualizando. Concluído.<br/>4:55 Contato visual. Concluído.<br/>4:57 Fase espelho. Erro.<br/>4:59 Iniciando transferência. Concluída.<br/>5:00 Liquidando doador. Concluído."/>
+
+		<table_2_newspaper_desc		value="Jornal de conselhos úteis<br/><br/>Considerando que o problema anterior foi resolvido com a ajuda de pontos oblíquos, alinhavar e costurar com linha é o melhor para trabalhar com feltro…<br/><br/>--------------------------------------------------------------------------<br/><br/>O receptor está inconsciente. Seus movimentos corporais são compulsórios e são um reflexo espelhado dos do doador. Em essência, nesta fase do procedimento, o doador controla ambos os corpos.<br/><br/>O receptor liga no momento em que as duas palmas se tocam, mas ainda não tem acesso às suas funções motoras. Ao pressionar a palma direita contra a palma esquerda do receptor e olhar nos próprios olhos, o doador inicia a transmissão da memória.<br/><br/>Como já foi mencionado, o efeito espelho é crítico para uma transferência bem-sucedida. Portanto, não desconsidere nosso conselho e instale uma tela-espelho de qualidade em seu futuro rosto."/>
+
+		<table_2_magnetic_key_desc		value="Chave da porta da frente. Não é usada há algum tempo."/>
+
+		<calendar_desc		value="25 de julho, sábado, 2076.<br/><br/>Hoje é o 26º aniversário da Catástrofe de Köln. Quando um experimento de emulação de consciência no Instituto de Neurocópia na cidade de Köln deu errado, resultou na primeira emissão de desesperatoxina. Este dia entrou para a história como o início da Epidemia de Lilith."/>
+
+		<front_door_frame_desc		value="Parecem marcas de altura de criança. Todas as inscrições foram apagadas."/>
+
+		<sinkdresser_cosmonautics_desc		value="Lançamento do primeiro satélite mongol."/>
+
+		<sinkdresser_round_horse_desc		value="Exposição de comércio de cavalos."/>
+
+		<sinkdresser_mirror_desc		value="Espelho sujo. Não é possível ver nada."/>
+
+		<toothpaste_desc		value="Para cuidar das formações ósseas da cavidade bucal. Apenas para corpos orgânicos."/>
+
+		<sinkdresser_inner_picture_desc		value="Cavaleiro em um m-corpo."/>
+
+		<rags_1_desc		value="Panos úmidos."/>
+
+		<sinkdresser_metal_plane_desc		value="Placa de metal.<br/>Uma forma familiar. Já vi isso em algum lugar antes."/>
+
+		<sinkdresser_newspaper_desc		value="Eles conseguiram ler o cérebro em busca de informações e armazená-las como uma cópia digital. A nova tecnologia foi chamada de «neurocópia». Então, o que é uma neurocópia? Memórias? Ao ouvir essa pergunta, os desenvolvedores nos favoreceram com um sorriso indulgente. Evidentemente, não são bem memórias.<br/><br/>Tudo bem — vamos deixar a essência da tecnologia um mistério, por enquanto. Em vez disso, vamos celebrar mais uma vitória momentosa no mundo da ciência. Pode não ser ainda a completa «transferência de consciência» que alguns esperavam, mas é, no entanto, um passo firme em direção ao objetivo."/>
+
+		<fridge_red_oval_desc		value="Pegada de uma lebre marrom."/>
+
+		<phial_desc		value="Minúsculos cristais brancos.<br/>Poderia ser ácido cítrico."/>
+
+		<detergent_desc		value="Livre de cloro ou fosfatos."/>
+
+		<detergent_2_desc		value="Produto de limpeza 433m¹.<br/>Com a fragrância do isômero doce do pássio."/>
+
+		<fridge_name_desc		value="Geladeira Dnipro."/>
+
+		<fridge_doorknob_desc		value="A porta está emperrada."/>
+
+		<fridge_st2_desc		value="Cole 200 adesivos e ganhe um Grande Anel Vermelho."/>
+
+		<fridge_st1_desc		value="Festival Anual Nacional da Águia Dourada de Caça."/>
+
+		<cupboard_bottle_3_desc		value="Cheira a vinagre."/>
+
+		<cupboard_bottle_2_desc		value="Parece óleo."/>
+
+		<cupboard_bottle_1_desc		value="Um líquido escuro e turvo. Fede a álcool."/>
+
+		<cupboard_top_1_desc		value="Enebish, minhas mãos e pernas estão cãibrando novamente. Vou dormir até amanhã, então não poderei ver Tabaha. Diga a ele que concordo com a questão das ovelhas. Deixe-o pegá-las e vendê-las antes que seu contato desista da oferta. Quanto a nós, nos viraremos sem as ovelhas.<br/><br/>Avô Batjin"/>
+
+		<cupboard_top_2_desc		value="Vale de compras<br/><br/>— Leite de égua fermentado<br/>— Arroz<br/>— Coalhada seca"/>
+
+		<cupboard_top_3_desc		value="Misture farinha de centeio com creme de leite, água e sal. Adicione manteiga e gordura de ovelha, misture até…"/>
+
+		<cupboard_top_shelf_big_oval_desc		value="Festival Naadam-48<br/><br/>Obrigado por participar!<br/>Até o próximo verão!"/>
+
+		<cupboard_top_shelf_small_round_desc		value="Nadaam 2049"/>
+
+		<cupboard_top_shelf_market_label_desc		value="Cartão de Desconto «Dois Por Cento»"/>
+
+		<cupboard_top_shelf_spice_1_desc		value="Gengibre. Alho. Pimenta de Sichuan.<br/>A embalagem está vazia."/>
+
+		<cupboard_top_shelf_spice_2_desc		value="«Ervas do Rio»"/>
+
+		<cupboard_top_shelf_matches_desc		value="Caixa de fósforos vazia."/>
+
+		<cupboard_top_shelf_market_bill_desc		value="Vale de compras<br/><br/>— Queijo<br/>— Leite<br/>— Aveia<br/>— Óleo de Gergelim<br/>— Pinhões"/>
+
+		<cupboard_middle_shelf_spice_vinous_desc		value="«Mostarda Preta»"/>
+
+		<cupboard_middle_shelf_spice_green_desc		value="«Pó de Leguminosas»"/>
+
+		<cupboard_middle_shelf_spice_red_desc		value="«Pó de Cogumelo»"/>
+
+		<cupboard_tea_desc		value="Chá Mongol.<br/><br/>Receita:<br/><br/>— Água<br/>— Infusão<br/>— Manteiga<br/>— Arroz<br/>— Leite<br/>— Sal"/>
+
+		<cupboard_middle_shelf_label_under_tea_desc		value="Folhas de cenoura picadas."/>
+
+		<cupboard_middle_shelf_market_bill_desc		value="Vale de compras<br/><br/>— Linha<br/>— Fósforos<br/>— Pilhas<br/>— Colírio"/>
+
+		<cupboard_middle_shelf_side_text_desc		value="«Eleve-se acima de Colinas e Rios»<br/>Transporte para crianças."/>
+
+		<cupboard_table_board_text_desc		value="Aditivo alimentar enriquecido com vitaminas para aves. Embalagem vazia."/>
+
+		<cupboard_blue_postcard_desc		value="Marca «Primeira Neurocópia». 2043."/>
+
+		<cupboard_orange_postcard_desc		value="Cavaleiros no Lago Khövsgöl."/>
+
+		<cupboard_middle_shelf_round_desc		value="«Goodman» Leite de égua fermentado"/>
+
+		<cupboard_left_box_help_desc		value="A infusão não deu certo. Eu troquei os temperos novamente. O colírio não parece estar ajudando — ainda não consigo distinguir o texto.<br/><br/>Por favor, organize os potes na mesma ordem: pimenta, sal, canela, curry, açúcar. Agora me lembro da ordem. E, com a ajuda do Céu, não vou mais trocá-los."/>
+
+		<cupboard_right_box_magazine_desc		value="O mesmo corpo que o seu, só que jovem — vinte, até quarenta anos mais novo. Qualquer idade que você desejar, na verdade. Com um genoma idêntico ao seu ou modificado. Resumindo, faremos um clone. Só que alguém precisará assumi-lo depois, transferindo sua consciência para ele. Como será feito?<br/><br/>A transferência de consciência é precisamente o campo de pesquisa empreendido pelo Projeto Transuman."/>
+
+		<cupboard_right_box_wet_article_desc		value="«Nabo de Duas Cabeças»<br/><br/>Mais uma vez, a engenharia genética vem em socorro da agricultura. Uma nova variedade de raízes forrageiras permitirá que os agricultores reduzam…<br/><br/>--------------------------------------------------------------------------<br/><br/>«Solução Histórica»<br/><br/>A Assembleia Mundial da Saúde ratificou o programa Transuman. Modificação do genoma humano e liquidação da morte — esses objetivos ambiciosos não são mais inatingíveis pela ciência. Claro, é cedo demais para celebrar o início de uma nova era da antropogênese — o projeto ainda está a vários anos de ser realizado. E, no entanto, é difícil conter o deleite ao pensar que…"/>
+
+		<cupboard_bottle_all_desc		value="Garrafas empoeiradas."/>
+
+		<cupboard_bottom_newspaper_1_desc		value="Em essência, é um mecanismo computacional de desempenho extraordinário. Após o carregamento, o neurochip ativa a cópia do sistema nervoso, simulando com perfeita precisão os processos químicos que ocorrem em seu protótipo biológico.<br/><br/>Por mais paradoxal que pareça, aprendemos a copiar o sistema nervoso antes de descobrir todas as nuances de sua composição. O cérebro humano continua sendo amplamente uma entidade desconhecida — tudo o que fizemos foi transferir o assunto de nossa pesquisa para um suporte artificial."/>
+
+		<cupboard_bottom_newspaper_2_desc		value="Chegando a adaptar centenas de hectares em terra arável nos territórios do sul…<br/><br/>--------------------------------------------------------------------------<br/><br/>«O Ataque de Pânico»<br/><br/>As primeiras experiências em simulação de consciência terminaram com resultados bastante inesperados. Os cientistas relatam uma reação estranha que se instala imediatamente após a ativação da neurocópia. Reproduzido no dispositivo de processamento, o sistema nervoso do sujeito começa a se desintegrar rapidamente, descendo para um estado de terror profundo.<br/><br/>Os pesquisadores confusos já apelidaram o fenômeno de «ataque de pânico». O ataque de pânico lança um ataque total ao sistema nervoso. Apenas dois minutos de ataque ininterrupto levam a danos irreversíveis…"/>
+
+		<cupboard_bottom_newspaper_3_desc		value="Os arbustos frutíferos serão afetados primeiro. Ou seja, as propriedades frutíferas da ameixeira devem diminuir muitas vezes. Apenas variedades selecionadas e adjacentes à água desta planta provavelmente reterão a capacidade."/>
+
+		<cupboard_side_green_label_desc		value="Endro"/>
+
+		<cupboard_side_blue_label_desc		value="Raposas selvagens em um parque eólico abandonado."/>
+
+		<poster_pepper_desc		value="«Pimentões Recheados»<br/><br/>A famosa banda de música apresenta seu novo álbum, Renove Seu Sabor. O show está programado para o aniversário da modificação bem-sucedida do gene da empatia. Toda a renda será revertida para o Fundo de Pesquisa do Projeto Transuman.<br/><br/>17 de agosto de 2043.<br/>Ulan-Bator, Palácio Central da Cultura.<br/>Portas abrem às 19:00."/>
+
+		<around_all_desc		value="«Vínculo Inseparável»<br/><br/>Torna-se cansativo refutar constantemente histórias sensacionalistas de humanos vivendo com genocópias modificadas. Portanto, vamos simplesmente oferecer um fato universal.<br/><br/>A neurocópia é viável apenas enquanto embutida em seu padrão genético nativo e inato. Substituir apenas alguns nucleotídeos em sua genocópia romperia esse vínculo. E está bem documentado o que acontece com a consciência que se torna «desconectada» do corpo."/>
+
+		<magazine_hided_desc_1		value="O neurochip serve como uma «estação de trânsito» no processo de transferência da consciência do original para o clone, e o inevitável ataque de medo é mais um preço razoável a pagar para recuperar a juventude."/>
+
+		<m_body_poster_desc		value="Preparando-se para uma transferência? Conheça seu novo m-corpo! Anote as marcações dos componentes principais! É simples!<br/><br/>1. Cabeça<br/>2. Peito<br/>3. Braços<br/>4. Punhos<br/>5. Pelve<br/>6. Pernas<br/>7. Pés<br/>8. Célula de Combustível<br/>9. Neurochip<br/>10. Genochip<br/>11. Sincronizador<br/>12. Recipiente de Acumulação<br/>13. Módulo de Respiração<br/>14. Lente<br/>15. Tela-espelho<br/>16. Painéis Exteriores<br/><br/>Encomende seus painéis exteriores de design da Felted por um preço promocional! Felted. Refinamos a beleza."/>
+
+		<bedside_table_1_photo_1_desc		value="Cisternas com resíduos biológicos nos subúrbios de Erdenet."/>
+
+		<bedside_table_1_photo_2_desc		value="Todas as plantas domésticas precisam de luz em graus variados. Nenhuma planta pode crescer na escuridão total — mesmo o nível inferior de uma floresta tropical recebe muito mais luz do que…"/>
+
+		<bedside_table_1_photo_3_desc		value="Estufas vistas de cima."/>
+
+		<bedside_table_1_photo_4_desc		value="Quênia, Mombasa.<br/>30°C durante todo o ano."/>
+
+		<lamp_desc		value="Abajur com detector de biorritmo.<br/><br/>Azul — alegria<br/>Ciano — serenidade<br/>Verde — equilíbrio<br/>Amarelo — ansiedade<br/>Vermelho — estresse<br/><br/>Usa elementos radioisotópicos.<br/>Vida útil: 40 anos."/>
+
+		<bedside_table_1_money_desc		value="Dinheiro.<br/><br/>Na imagem: Edifício do Comitê de Segurança Pública.<br/>Dístico no verso: «A Beleza Salvará o Mundo»."/>
+
+		<bedside_table_1_top_box_text_desc		value="Quando me cortei, o ferida cicatrizou em meia hora.<br/>Mantive a planta no escuro por muito tempo, depois sofri de calafrios e febre por uma semana inteira."/>
+
+		<bedside_table_1_top_box_book_desc		value="«Manual da Nova Vida»<br/><br/>Quando em modo de operação normal, a tela-espelho tem um tom azulado. O neurochip da tela fica vermelho em caso de mau funcionamento. Um tom verde indica que o m-corpo está sendo controlado por inteligência artificial."/>
+
+		<bedside_table_1_top_box_postcards_desc		value="Um conjunto de cartões-postais turísticos."/>
+
+		<bedside_table_1_top_box_map_desc		value="Um mapa de Ulan-Bator."/>
+
+		<bedside_table_1_top_box_newspaper_desc		value="Uma transferência «doméstica» é um procedimento simples e seguro.<br/>Todo o processo é controlado remotamente por um operador.<br/>Tudo que você precisa é da cópia do seu sistema nervoso,<br/>assim como da sua NDA."/>
+
+		<bedside_table_1_top_box_red_label_desc		value="«Programa Internacional de Substituição de Corpo»"/>
+
+		<bedside_table_1_top_box_white_label_desc		value="«Departamento de Transferência Espelho»<br/><br/>O verso lista contatos dos centros de transferência oficiais na Mongólia."/>
+
+		<bedside_table_1_middle_box_drawing_desc		value="Desenho infantil. Uma cidade, o sol e pessoas."/>
+
+		<bedside_table_1_middle_box_book_desc		value="Uma colisão de satélites em 2034 resultou na desintegração da Grande Mancha e na formação de um sistema estável de quatro vórtices."/>
+
+		<bedside_table_1_middle_box_disk_desc		value="PF. 1977"/>
+
+		<bedside_table_1_middle_box_red_label_desc		value="Embalagem de bala."/>
+
+		<bedside_table_1_middle_box_notes_desc		value="Dois andorinhões sobrevoaram a zona restrita hoje. Não sei o que aconteceu com eles depois. Ambos estão mortos, muito provavelmente. Uma vez quase entrei lá eu mesmo — não sabia na época que ninguém pode passar além do cercado."/>
+
+		<bedside_table_1_middle_box_photo_desc		value="Táxi no céu acima da megápole."/>
+
+		<bedside_table_1_bottom_box_labels_desc		value="Astronáutica mongol.<br/><br/>— Sonda lunar.<br/>— Foguete Transportador Byambyn Rinchen.<br/>— Expedição de Pesquisa a Vênus.<br/>— Sonda Terrestre Olgoi-Khorkhoi em Marte."/>
+
+		<bedside_table_1_bottom_box_page_1_desc		value="Por mais inacreditável que pareça, parece que descobrimos acidentalmente o mecanismo central no funcionamento do sistema nervoso. Atualmente não fazemos ideia de sua finalidade, enquanto observações superficiais apresentam um quadro completamente sem sentido.<br/><br/>Descobrimos uma dependência peculiar do sistema nervoso da pessoa em relação ao seu DNA individual. Por razões ainda desconhecidas, o cérebro está perpetuamente revisando seus próprios genes. O cérebro «consulta» seu próprio organismo, gerando uma combinação sofisticada de biorritmos que, inacreditavelmente, corresponde à sequência de pares de nucleotídeos.<br/><br/>Nossa tecnologia falhou no teste precisamente porque não levou em conta essa propriedade. Ao perder a conexão com o próprio DNA, cada neurocópia testada se desintegrou em um ataque de pânico. Nossa tarefa de maior prioridade neste momento é aperfeiçoar a tecnologia para fornecer à neurocópia esse vínculo vital com seu «corpo nativo»."/>
+
+		<bedside_table_1_bottom_box_page_2_desc		value="O mecanismo de revisão genética se formou há cerca de duzentos mil anos. Curiosamente, está presente apenas no sistema nervoso humano. Nada parecido foi detectado em outros animais, incluindo primatas, nossos primos genealógicos.<br/><br/>É difícil imaginar o que pode ter levado o organismo do homem antigo a realizar uma auto-modificação tão sofisticada."/>
+
+		<suitcases_photo_1_oval_desc		value="Uma mulher tricotando."/>
+
+		<suitcases_pennant_desc		value="Bandeira artesanal, assinada: «Boa caça»."/>
+
+		<suitcases_dish_desc		value="Aos felizes recém-casados.<br/>De seus pais, com amor."/>
+
+		<suitcases_photo_2_desc		value="Fotografia de criança.<br/>A inscrição está sombreada com um marcador."/>
+
+		<suitcases_photo_3_desc		value="O avô Batjin chegou.<br/>Vamos fazer goulash."/>
+
+		<suitcases_photo_4_desc		value="Bons sonhos em um novo berço."/>
+
+		<suitcases_photo_5_desc		value="Uma criança e ovelhas."/>
+
+		<suitcases_photo_6_frame_desc		value="Juncos na margem do Lago Uvs."/>
+
+		<suitcases_photo_7_desc		value="Voltando com a recompensa."/>
+
+		<suitcases_photo_8_desc		value="Uma floresta de cedros."/>
+
+		<suitcases_photo_9_desc		value="Uma avó feliz abraça seu neto."/>
+
+		<suitcases_calligraphy_desc		value="Escrita em mongol antigo."/>
+
+		<suitcases_poster_yellow_desc		value="«Primeiros Contornos»<br/><br/>Um tour virtual por monumentos de arte rupestre."/>
+
+		<magazine_hided_desc_2		value="Embora tal método exista, ele não oferece garantia de que o sujeito será trazido de volta à razão. Além disso, além de não conseguir tirar a neurocópia do coma, o choque elétrico tem maior probabilidade de induzir um choque de dor e destruir completamente as conexões neuronais restantes."/>
+
+		<suitcase_black_label_desc		value="Lhasa, 2039"/>
+
+		<suitcase_beige_label_1_desc		value="Mongólia Interior"/>
+
+		<suitcase_beige_label_2_desc		value="Bem-vindo a Choibalsan!"/>
+
+		<suitcase_beige_label_3_desc		value="Etiqueta de bagagem<br/><br/>Passageiro: Dzhambul Batjin<br/>Voo: Ulan-Bator — Choibalsan<br/>Mongolian Speedways"/>
+
+		<suitcase_beige_label_4_desc		value="Shangri Hotel<br/>Em memória do Tibete."/>
+
+		<suitcase_red_label_desc		value="Lago Khövsgöl"/>
+
+		<tv_box_desc		value="Televisor Nergui Oxygen<br/>Modelo XG-6000<br/><br/>— Tela elástica com enchimento de ozônio<br/>— Sistema integrado de supressão de emoções<br/>— Todos os formatos de transmissão suportados"/>
+
+		<tv_box_spec_desc		value="Tamanho da tela 42″<br/>Tecnologia de Pixel Errantes"/>
+
+		<tv_box_newspaper_desc		value="As previsões para o próximo outono incluem um aumento nas amplitudes térmicas diárias, bem como ventos fortes.<br/><br/>--------------------------------------------------------------------------<br/><br/>Genochip — um transportador de DNA digital. Ao sincronizar este dispositivo com a neurocópia que está lutando para encontrar seu «corpo ausente», os inventores buscam resolver o problema."/>
+
+		<tv_box_paper_desc		value="«Observações Presentes»<br/><br/>Parece que estamos começando a nos acostumar com o desconforto. Relatos de aparições de novas «esferas de contaminação» já não evocam a mesma ressonância na mídia. Houve mais duas emissões de desesperatoxina na semana passada, mas esta é provavelmente a primeira vez que você ouve sobre isso."/>
+
+		<chest_2_magazine_3_front_desc		value="«MPR-0: Sensações Estranhas»<br/>A natureza incrível do Efeito Babilônico.<br/><br/>«Pássio-433m²»<br/>Propriedades do núcleo do isômero amargo do pássio."/>
+
+		<chest_2_magazine_back_desc		value="Restauraremos sua aparência anterior.<br/>Selos tridimensionais de máscaras faciais.<br/>Reprodução precisa da genocópia."/>
+
+		<chest_2_magazine_4_front_desc		value="«Presença Estranha»<br/><br/>Por que o corpo humano se deteriora dentro das esferas mais rápido do que qualquer outra forma de vida orgânica? Até agora, não apenas as tentativas de estudar esse fenômeno falharam em nos aproximar da resposta, mas, pelo contrário, apenas adicionaram mistério a um quadro já intrigante.<br/><br/>A pesquisa indica que a ruína da matéria orgânica é apenas o começo do processo, seu estágio inicial. O que se segue é algo muito mais extraordinário do que a simples destruição, pois a mistura fervilhante de matéria desintegrada, de modo incompreensível, dá origem à formação de novas estruturas orgânicas.<br/><br/>Este mistério assustador dura apenas um instante — os minúsculos fragmentos de matéria formada se desfazem sem nunca assumir qualquer forma sensata.<br/><br/>O que é este fenômeno? Que mecanismos se escondem por trás desta «atividade criativa» e o que exatamente está sendo «criado»? Infelizmente, enquanto os epicentros das emissões permanecerem inacessíveis às nossas tecnologias de medição, nossas chances de desvendar o mistério são infinitesimalmente pequenas."/>
+
+		<chest_3_note_desc		value="Dzhambul!<br/><br/>Algo explodiu na cúpula. Um monte de pessoas chegou, e ninguém pode ir ao local. Chagatai está lá. Ele seguiu Mark até lá esta manhã, e ainda não voltou. Estou com medo. Vou sair para procurá-lo. Nos encontre!<br/><br/>Sarnay"/>
+
+		<chest_3_latters_desc		value="Pacotes de cartas. Uma correspondência menciona Mark e Ida.<br/><br/>Já escrevi sobre ele — ele trabalha perto, na estação. Bem, alguns anos atrás ele conheceu uma garota. Ele diz que eles se viram apenas uma vez, na companhia de amigos. E de alguma forma o jeito que ela olhou para ele, ele tem sonhado com aquele momento desde então. Mark fala de uma sensação estranha chamada «efeito babilônico», e que o instituto inteiro está estudando isso atualmente. Dzhambul e eu rimos em resposta: «A sensação é totalmente normal, Mark. Nós a estudamos completamente há muito tempo. :) Chute a ciência para o meio-fio e vá até Ida antes que ela troque de corpo»."/>
+
+		<ceiling_photo_1_desc		value="Vishnu. Guardião do universo."/>
+
+		<ceiling_photo_2_desc		value="Museu Nacional da Mongólia."/>
+
+		<ceiling_photo_3_desc		value="Mandala é um símbolo geométrico complexo.<br/>É interpretada como o modelo do universo."/>
+
+		<ceiling_photo_4_desc		value="Maitreya. A fonte da misericórdia."/>
+
+		<altar_photo_parents_desc		value="Dzhambul e Sarnay."/>
+
+		<altar_photo_military_desc		value="Bisavô Dalhaa."/>
+
+		<altar_top_photo_desc		value="Pai.<br/><br/>Você provavelmente está vindo aqui de scooter. Mas não vamos nos ver — posso ver no rosto dos médicos, e também sinto. Dizem que aqueles que permaneceram lá dentro não podem ser alcançados. Mas não tenho fé nos evacuadores. Tenho fé na minha águia dourada. Ele vai tirá-lo de lá."/>
+
+		<photo_djambul_desc		value="Uma mulher com uma criança.<br/>Um dístico no verso diz: «Dzhambul. 2 anos»."/>
+
+		<postcard_1_desc		value="Ulan-Bator vista de cima."/>
+
+		<postcard_2_desc		value="Cidade de Choibalsan."/>
+
+		<pendant_desc		value="Amuleto tibetano."/>
+
+		<panorama_desc		value="Ulan-Bator. Casas residenciais e uma praça."/>
+
+		<incense_stick_desc		value="Palitos de incenso."/>
+
+		<candle_desc		value="Velas."/>
+
+		<book_of_dead_desc		value="Livro tibetano dos mortos.<br/><br/>Chama branca pura queima tão intensamente, tão ofuscante, que dói nos olhos contemplá-la. Chama branca pura…"/>
+
+		<book_of_ethic_desc		value="Coletânea de fábulas neo-budistas. Pequenos contos morais. Um deles está cuidadosamente circulado com um marcador.<br/><br/>«O Caminho de Sitarasana»<br/><br/>Certa noite no bosque, uma garota chamada Sitarasana teve um pensamento curioso. De repente, ela percebeu que não sabia quem eram seus pais. «Não pode ser que eu não tenha pais. Devo tê-los simplesmente esquecido. E aposto que eles estão esperando por mim em casa», pensou a garota.<br/><br/>«Com licença, que caminho devo seguir para encontrar a casa dos meus pais?» Sitarasana perguntou a um vagabundo com rosto mal-humorado. «Se você não sabe para onde ir, vá em direção à luz. É o que eu sempre faço», respondeu o vagabundo, sacudindo a fuligem de sua cabeça fumegante. Sitarasana olhou ao redor — a leste, os raios do sol nascente filtravam-se entre os troncos das árvores. «Minha casa deve ser por ali», decidiu a garota e dirigiu-se em direção à luz.<br/><br/>O Sol guiou seu caminho durante todo aquele dia, mas então a noite chegou e ele se escondeu além do horizonte. A Lua ergueu-se no firmamento. A garota parou momentaneamente, hesitante, então deu de ombros e começou a seguir a Lua. Mas quando amanheceu, a Lua derreteu no céu, substituída mais uma vez pelo Sol. Sitarasana franziu a testa e virou-se para o Sol: «Vou andar até alcançar meu objetivo», decidiu.<br/><br/>Seis dias e seis noites Sitarasana vagou pelo bosque, alternando entre o Sol e a Lua e mudando de direção, até chegar a um prado inundado por uma luz fantasmagórica. «Com licença, de onde vem essa luz? Não vejo nem o Sol nem a Lua no céu», perguntou a Buda, que ouvia música saindo de um rádio. Buda enfiou o dedo no céu e retornou o botão de volume à sua posição anterior. A garota olhou para cima e viu as estrelas. Ela sorriu e pensou: «Que música linda»."/>
+
+		<tobacco_desc		value="Tabaco Steppe Rover. 50 gramas."/>
+
+		<accessories_desc		value="Acessórios para fumar."/>
+
+		<altar_left_photo_1_desc		value="Bisavó Badma"/>
+
+		<altar_left_photo_2_desc		value="Tio Bayaertu"/>
+
+		<altar_left_photo_3_desc		value="Tia Yubi"/>
+
+		<altar_left_photo_4_desc		value="Sarnay com o irmão"/>
+
+		<altar_left_photo_5_desc		value="Tio Bayaertu trouxe damascos."/>
+
+		<altar_left_photo_6_desc		value="Nossa terra está passando por grandes mudanças.<br/>Logo estará cheia de pessoas e júbilo.<br/>2057."/>
+
+		<altar_left_photo_7_desc		value="Foi uma boa caçada. Pegamos três lebres."/>
+
+		<altar_left_photo_8_desc		value="Tio Ganbatar"/>
+
+		<altar_left_photo_9_desc		value="Foguete — um presente voador do tio Mark."/>
+
+		<altar_left_red_label_desc		value="Placa de incenso."/>
+
+		<altar_left_paper_1_desc		value="Feira de tecelagem"/>
+
+		<altar_left_paper_2_desc		value="Olá, pai!<br/><br/>Tenho novidades para você. Adivinha? Você é avô! :) Ontem Sarnay deu à luz um menino saudável e robusto! Obrigado por rezar por nós! A Providência certamente nos ajudou muito. Na cidade nos disseram que uma em cada duas mulheres hoje sofre aborto espontâneo. :( Espero que a epidemia seja logo interrompida para que a alegria retorne a todos os lares. Venha nos visitar em breve!<br/><br/>Dzhambul<br/>5 de setembro de 2053."/>
+
+		<altar_right_photo_1_desc		value="Artesanou um arco."/>
+
+		<altar_right_photo_2_desc		value="Com amigos na margem do Kerulen."/>
+
+		<altar_right_photo_3_desc		value="Lembranças de Choibalsan!"/>
+
+		<altar_right_photo_4_desc		value="Sarnay com a mãe"/>
+
+		<altar_right_photo_5_desc		value="Amigos: Dzhambul e Mark"/>
+
+		<altar_right_white_label_desc		value="Vale para serviço de utilização de doador único.<br/>Centro de Transferência Trinta Mais."/>
+
+		<basrelief_1_desc		value="Seremos grama e arbustos.<br/>Seremos água e flores."/>
+
+		<mark_morin_huur_desc		value="Selo «Khambo Lama Substitui Seu Corpo».<br/>Comemorações pela bênção da Associação Budista Mongol ao Programa de Substituição de Corpo."/>
+
+		<mark_bug_desc		value="Selo Insetos Extintos."/>
+
+		<birth_certificate_desc		value="Certidão de nascimento<br/><br/>Nome, sobrenome: Chagatai Dzhambul<br/>Sexo: masculino<br/>Data de nascimento: 4 de setembro de 2053<br/>Pai: Dzhambul Batjin<br/>Mãe: Sarnay Boldyn"/>
+
+		<boiler_room_desc		value="Petição<br/><br/>Ao chefe da casa de caldeiras nº 17 da cidade de Ulan-Bator. Por meio desta, solicito minha dispensa das obrigações de mecânico devido a uma mudança inevitável de residência.<br/><br/>Batjin Dalhaa"/>
+
+		<rail_ticket_desc		value="Bilhete de trem."/>
+
+		<skin_cover_desc		value="Capa de couro.<br/><br/>— Passaporte em nome de Batjin Dalhaa.<br/>— Recibo de um pneu de scooter."/>
+
+		<batjin_photo_desc		value="Batjin com a esposa."/>
+
+		<mark_hockey_desc		value="Campeonato mundial de hóquei de 2039.<br/>Uma vitória brilhante para a seleção mongol."/>
+
+		<bedside_notification_left_desc		value="Notificação. Data: 18/08/58<br/><br/>Prezado Batjin Dalhaa. Aceite nossas mais profundas condolências pela trágica morte de sua família. Ser-lhe-á concedida assistência para remover seus pertences da zona de contaminação. Entre em contato para esclarecer os detalhes.<br/><br/>Atenciosamente,<br/>Serviço de Evacuação de Bayankhongor."/>
+
+		<bedside_notification_right_desc		value="Notificação. Data: 29/08/58<br/><br/>Prezado Batjin Dalhaa. Estamos perplexos com sua repentina decisão de mudar de residência e se mudar para a casa de seu falecido filho. Percebemos que, nesta hora difícil, nosso conselho pode parecer fora de lugar. No entanto, sentimos que é nosso dever lembrá-lo do perigo da presença prolongada tão perto do centro de contaminação por desesperatoxina.<br/><br/>Pedimos que saia da «zona de três quilômetros» o mais rápido possível. Caso decida retornar a Ulan-Bator, entre em contato com nosso operador.<br/><br/>Atenciosamente,<br/>Serviço de Evacuação de Bayankhongor."/>
+
+		<koh_number_desc		value="Código de Salvação de Koch<br/><br/>«Se me fosse dada hoje a oportunidade mágica de enviar um texto de uma palavra para o passado, eu escreveria '3513' e enviaria para mim mesmo. Sim, são apenas quatro dígitos. Mas teria sido suficiente para salvar nosso mundo».<br/><br/>Esta famosa citação de Helmut Koch naturalmente nos comove. Hoje, quando as perspectivas de retornar às nossas vidas anteriores são praticamente nulas, o pensamento da chance que perdemos atormenta a todos nós. Hoje em dia todo mundo conhece o número 3513. Nós o associamos a um feitiço que poderia ter nos salvado a todos, se apenas tivesse sido lançado a tempo. Mas como quatro simples dígitos poderiam ter evitado um desastre?<br/><br/>Nossa entrevista exclusiva com o Professor Koch, o pioneiro da neurocópia, lança nova luz sobre detalhes anteriormente desconhecidos desta trágica história."/>
+
+		<magazine_hided_desc_3		value="Evidências indiretas sugerem que este campo interage com mais do que apenas matéria. Perturbações menores também são registradas no momento da criação de construções incorpóreas, como pensamento ou emoção humana.<br/><br/>Nossa hipótese é que o condutor universal que impulsiona a interação entre construções de naturezas variadas e o campo é a forma. Forma e proporções.<br/><br/>No entanto, embora possamos conceber a noção de um mecanismo de transferência de informação baseado na forma, o propósito de tal processo permanece além do escopo de nossa imaginação."/>
+
+		<maskzone_photo_1_desc		value="A tinta está descascando."/>
+
+		<maskzone_photo_2_desc		value="Altai, 2037"/>
+
+		<maskzone_photo_3_desc		value="Três dias em Lhasa."/>
+
+		<maskzone_photo_4_desc		value="Pessoas em vestes monásticas."/>
+
+		<maskzone_photo_5_desc		value="Templo desertado, selvagem com cedro."/>
+
+		<tv_label_desc		value="Garantia de revestimento à prova de poeira."/>
+
+		<tv_newspaper_desc		value="Quando a equipe de evacuação chegou, ele estava girando a duzentas rotações por minuto. A pobre alma foi contida e forçada a reiniciar."/>
+
+		<tv_help_desc		value="Enebish, por favor, diga a Tabaha que ainda não vou trocar de corpo. Não é necessário. Eles consertaram minha visão, e sou grato. Não peço mais nada à Providência. Meu papel é modesto."/>
+
+		<tv_bill_1_desc		value="Vale de compras<br/><br/>— Tabaco<br/>— Incenso de sândalo"/>
+
+		<tv_bill_2_desc		value="Vale de compras<br/><br/>— Célula de combustível<br/>— Revista Around and Around"/>
+
+		<tv_bill_3_desc		value="Vale de compras<br/><br/>— Capas de fitocópia<br/>— Esterilizante sintético<br/>— Fluido de processamento térmico<br/><br/>Charm Store Bayankhongor HQ-Market<br/>Obrigado pela preferência!"/>
+
+		<tv_coins_3_desc		value="Moedas."/>
+
+		<tv_coins_2_desc		value="Uma unidade. Duas unidades."/>
+
+		<tv_medallion_desc		value="Medalhão de pedra."/>
+
+		<tv_leaflet_desc		value="Cidadãos de quocientes médios e altos!<br/>Lembre-se!<br/><br/>Ao substituir seu corpo, você dá esperança ao mundo inteiro. Para se juntar às fileiras dos salvadores da humanidade, entre em contato com seu centro de transferência espelho local."/>
+
+		<tv_teleprogram_2_desc		value="Guia de TV para maio de 2059.<br/><br/>«E Se?»<br/>O que aconteceria se o recipiente de acumulação do seu vizinho transbordasse? Descubra como o serviço de evacuação da cidade, bem como cidadãos comuns como você, controlam «grupos de risco» para evitar novas emissões de desesperatoxina.<br/><br/>«Sentimentos Não Lucrativos»<br/>Apelidado de «Dez», Jim leva uma vida bastante única, forçado a passar apenas 2 dias por mês em estado ativo."/>
+
+		<bedside_table_2_vinyl_record_desc		value="Disco de vinil.<br/><br/>«Ondas Sufocando o Vento». Uma coleção da Mongólia Oriental. Sexta edição. Orquestra Nacional de Morin Khuur de Choibalsan 2028."/>
+
+		<bedside_table_2_teleprogram_1_desc		value="Guia de TV para dezembro de 2071.<br/><br/>«Projeções Futuras»<br/>Esta é a última chance do Projeto Novo Começo. As habilidades de doador dos feios poderiam acabar com o burnout emocional dos belos?<br/><br/>«Diabos Sortudos»<br/>Uma entrevista com uma garota outsider de 20 por cento adotada por um casal de elite. Como participar do programa de doadores traz alegria aos membros da classe baixa.<br/><br/>«Em Nome da Beleza»<br/>A sociedade deveria perseguir a produção de cópias piratas de decorações androides? Temos o direito moral de privar cidadãos indigentes da capacidade de decorar suas moradas com mercadorias ilegais de QH? Ativistas se manifestam a favor da necessidade inerente do homem de se cercar de beleza e virtude."/>
+
+		<bedside_table_2_newspaper_desc		value="«A Nova Face da Desesperatoxina»<br/><br/>Mais um efeito patológico da toxina onipresente foi descoberto — o veneno bloqueia o desenvolvimento de certas seções do sistema nervoso em crianças. As crianças nascidas pouco antes da epidemia parecem ter sofrido o impacto mais severo.<br/><br/>Isso significa que sem nossa intervenção, seu desenvolvimento será atrofiado e elas nem chegarão à puberdade. Milhões de vidas estão em jogo.<br/><br/>Um poderoso estimulante neurometabólico é necessário para neutralizar o veneno efetivamente. A Syncamfacina, um novo medicamento no qual os pais do mundo inteiro depositam suas esperanças, ainda está em fase experimental inicial. Levará anos para realizar estudos clínicos abrangentes — anos que simplesmente não temos. Realisticamente, estamos falando de meses."/>
+
+		<bedside_table_2_booklet_desc		value="O medicamento é exibido durante toxificação moderada por partículas de desesperatoxina."/>
+
+		<bedside_table_2_agreement_desc		value="Contrato de Transferência e Manutenção Indefinida.<br/><br/>Cliente: Batjin Dalhaa. Idade: 69. QH: 47.<br/>Fornecedor: Centro de Transferência Trinta Mais.<br/><br/>O Cliente define a data e hora da transferência de forma independente. Após a substituição do corpo, o Cliente deverá devolver o equipamento alugado ao Fornecedor. Todas as formas de manutenção de serviço, incluindo descarga do pássio acumulado, o Cliente deverá realizar exclusivamente nas estações dedicadas do Fornecedor. O Fornecedor manterá a evasão do imposto de boa hereditariedade pelo Cliente estritamente confidencial."/>
+
+		<bedside_table_2_medical_report_desc		value="Relatório médico.<br/><br/>Paciente: Batjin Dalhaa. O procedimento de excreção de desesperatoxina do corpo foi um sucesso. Os níveis de veneno foram reduzidos para 60. A repetição do procedimento é contraindicada. Recomenda-se a substituição do corpo e a realocação para um novo local de residência com níveis mais baixos de contaminação."/>
+
+		<bedside_table_2_press_clipping_desc		value="Você reconhecerá isso pelo aumento repentino na duração do sono — até 10-15 horas. Neste estágio, a medicina não é mais eficaz. Com esses sintomas, o único método de excretar a desesperatoxina dos tecidos corporais de forma mais ou menos eficaz é praticado por clínicas especializadas selecionadas."/>
+
+		<bedside_table_2_manual_desc		value="Grace Embalmer 2 Fitocopiadora.<br/>Instruções de uso."/>
+
+		<bedside_table_2_advertising_desc		value="Acessórios com desconto para decorações androides. Liquidação de 95% de ikebanas luminescentes de duas temporadas atrás."/>
+
+		<frame_blue_label_desc		value="Dia Internacional do Belo<br/>Programação do Evento:<br/><br/>— Show festivo «Setenta e Mais».<br/>— Venda de joias de QH usadas."/>
+
+		<frame_bill_desc		value="Vale de compras<br/><br/>— Spray de limpeza<br/>— Chave de fenda reversa"/>
+
+		<frame_magazine_desc		value="«Pelo Bem Maior»<br/><br/>Após recusar assistência à má hereditariedade, um grupo de pessoas feias expressou publicamente sua gratidão à sociedade por seu cuidado e tolerância. Antes de serem colocados para dormir, eles manifestaram o desejo de visitar uma exposição de conquistas de QH.<br/><br/>Falando no centro de imprensa do Fundo Público de Resgate, o grupo declarou sua admiração e respeito pelo compromisso dos cidadãos em servir valores elevados. Cada membro do coletivo feio receberá entrada gratuita na exposição de beleza, bem como uma fitocópia de luxo personalizada."/>
+
+		<frame_newspaper_1_desc		value="«Seis Segundos no Inferno»<br/><br/>«Centros de contaminação estão gradualmente perdendo seu poder diabólico», afirmam pesquisadores. Tal afirmação surge pela primeira vez após 13 anos de tentativas fúteis de penetrar nas profundezas das esferas de contaminação.<br/><br/>Durante uma expedição recente, uma sonda mecânica durou seis segundos dentro de tal esfera antes que o contato fosse perdido. Esses seis segundos foram suficientes para realizar uma série de medições valiosas. Em contraste com as máquinas que foram desativadas dentro do primeiro segundo, a nova sonda mostrou resultados encorajadores.<br/><br/>Provavelmente levará décadas até que um ser humano cruze o limiar de uma esfera, mas agora há esperança de que a tecnologia em breve nos permita extrair neurochips de cidadãos que foram vítimas de emissões de zonas até então inacessíveis."/>
+
+		<frame_newspaper_2_desc		value="«Para aqueles que nunca explodirão»<br/><br/>Que suas vidas sejam ricas em emoções. Que seus recipientes nunca parem de encher. Com a respiração suspensa e cheios de esperança, contemplamos vocês — aqueles cujos visores exibem orgulhosamente números maiores que 70. Além desses dois dígitos, brilha uma nova esperança para a humanidade, afastando todo o perigo, pois vocês nunca explodirão.<br/><br/>Feliz Dia do Belo!"/>
+
+		<frame_blue_photo_desc		value="Mercado de flores do Monumento aos Salvadores."/>
+
+		<frame_mother_child_photo_desc		value="Fêmea de chimpanzé com seu filhote."/>
+
+		<frame_people_photo_desc		value="Um fórum de especialistas em sistemas de aquecimento.<br/>Uma fotografia antiga e desbotada."/>
+
+		<frame_newspaper_3_desc		value="Caros leitores!<br/><br/>Juntamente com os aromas das gramíneas da primavera, uma notícia bastante agradável chegou hoje à nossa redação: «Graças à tecnologia emergente, o processo de purificação do pássio de seu componente amargo pode se tornar dois por cento mais barato num futuro muito próximo».<br/><br/>Com o aumento da lucratividade do pássio, cada um de nós se torna um pouco mais rico e útil para a sociedade. O QH mínimo para justificar a purificação cairia de 30% para 28%, de modo que mesmo monstruosidades deprimentes com trinta por cento em seus visores pudessem obter lucro com suas emoções desagradáveis."/>
+
+		<frame_sticker_desc		value="Preciso de uma gérbera vermelha com 95 por cento.<br/>É raro encontrar algo tão alto.<br/>A busca vai demorar um pouco."/>
+
+		<frame_note_desc		value="Nosso genômetro está quebrado. Ele mentiu para nós. Não havia nada de especial naquelas flores — todas eram feias. Tudo o que fizemos foi desperdiçar capas perfeitamente boas. Leve-as para a plataforma, por favor. Tabaha as pegará de manhã.<br/><br/>Avô Batjin"/>
+
+		<board_left_poster_blue_desc		value="Por que o rosto comprido? Deixe-me adivinhar.<br/>Você tem uma reinicialização marcada para amanhã. Certo?<br/>Bem, tenho uma surpresa para você!<br/><br/>O novo sincronizador Anchor-2! O Anchor-2 reduz a duração dos ataques de pânico em três segundos em relação ao modelo padrão. Isso é três segundos de vida normal em vez de três segundos infinitamente longos de horror pantanoso.<br/><br/>Oferecido pelo Departamento de Design Optimist."/>
+
+		<board_right_poster_grey_desc		value="«2065: Ano da Mulher da Árvore do Pássaro»<br/>Um calendário astrológico tibetano."/>
+
+		<board_right_newspaper_desc		value="Nem coragem nem fortaleza desempenham um papel — o ataque de pânico não poupa ninguém. Cada segundo subsequente do ataque é duas vezes mais prejudicial que o anterior. E enquanto o dano sofrido nos primeiros quinze segundos geralmente é reparável com o tempo, qualquer coisa além desse ponto resulta em danos irreversíveis."/>
+
+		<board_right_poster_blue_desc		value="Pássio-433<br/><br/>O novo garoto do quarteirão dos elementos químicos,<br/>trazendo consigo ruína e salvação.<br/><br/>Qual dos componentes do pássio acabará governando o mundo? Isso depende de você, super-herói. Então vista sua capa e mãos à obra! Colete o componente doce para reabastecer o Fundo de Resgate. Destrua seu equivalente amargo para proteger o mundo de novas emissões.<br/><br/>O jogo de campo do ano está de volta."/>
+
+		<board_paper_pattern_desc		value="«O Mais Precioso de Todos»<br/><br/>Recentemente, visitei um banco de armazenamento de neurochips. Imagine uma instalação com milhares de compartimentos. A porta de cada compartimento é equipada com uma janela redonda, exibindo um líquido preservativo borbulhante. Ao lado — um visor de QH. Os valores de QH são principalmente baixos, já que a maioria dos adormecidos são outsiders.<br/><br/>Mas o que mais me impressionou foram as flores. Eu, por exemplo, não fazia ideia de que os feios gostam de decorar suas células com fitocópias. Por outro lado, não é surpreendente que aqueles que «atravessam» escolham levar o que é mais precioso consigo."/>
+
+		<board_left_newspaper_desc		value="Uma nova loja de flores está chegando à nossa cidade. Os apreciadores da beleza não precisarão mais dirigir até Ulan-Bator, pois fitocópias dos tipos populares e exóticos agora podem ser compradas aqui mesmo. Estamos em processo de finalização de acordos com fornecedores, e antes de muito tempo…<br/><br/>«Descubra os preços» está escrito à mão."/>
+
+		<board_center_shpere_desc		value="Artigo de jornal «Ao Centro da Esfera»<br/><br/>Estamos a um quilômetro e meio do lado de fora da esfera de contaminação, cruzando o perímetro externo. O teor de toxina é baixo aqui, e o risco de danos ao sistema nervoso é insignificante. Estamos indo em direção ao centro.<br/><br/>140 metros até a borda da esfera. Placas de aviso por toda parte. Além deste ponto, a exposição aumenta acentuadamente. Dentro do perímetro marcado, o sistema nervoso cessa a operação — estamos a minutos de perder a consciência.<br/><br/>40 metros até a borda da esfera. Chegamos à fronteira mortal. Estamos olhando para um cercado alto. Não vamos mais longe — apenas equipamentos mecânicos são capazes de funcionar dentro da área isolada.<br/><br/>Zero metro. A lente do nosso drone de reconhecimento está bem na fronteira com a esfera de contaminação, marcada por um tom acinzentado na terra. A área do outro lado é pouco pesquisada e permanece inacessível até mesmo para máquinas. Muitos mistérios estão escondidos dentro da esfera. O que são os pontos amorfos que se elevam do solo ao longo da borda? Qual é a causa do efeito aparentemente arbitrário da esfera no corpo humano orgânico, que se desintegra a uma taxa duas vezes maior que a de todas as outras criaturas? E, claro, o que está acontecendo no centro da esfera?<br/><br/>Jan Rujevich.<br/>Opinião de especialista:<br/><br/>Sabemos quase nada sobre os processos que ocorrem no epicentro da emissão de desesperatoxina. Há apenas uma afirmação que podemos fazer com confiança: aquele espaço opera sob propriedades físicas únicas. Até agora, observamos fenômenos inconcebíveis, como o desaparecimento de radiação de micro-ondas, levando-nos a considerar teorias verdadeiramente fantásticas. Uma dessas teorias sugere que um sinal de rádio enviado ao epicentro não apenas desaparece, mas viaja através do tempo."/>
+
+		<board_hq_table_desc		value="Gráfico exibindo o efeito do quociente do produto na demanda do consumidor. Notas adicionadas à mão: «Não, obrigado» e «Céus Benévolos»."/>
+
+		<board_rare_flowers_desc		value="«Mais Vendidos em Fitocópias».<br/>Uma página de um catálogo de classificação."/>
+
+		<board_paper_blue_desc		value="«O Sorriso de Ora»<br/><br/>Não é por acaso que este tipo foi chamado de «autônomo». De fato, é resistente a regimes de temperatura irregulares, permanece em flor durante todo o ano através dos quatro ciclos e não requer rega, nutrição ou replantio regulares.<br/><br/>Adicionado ao banco de dados de assinaturas de DNA em 2065."/>
+
+		<board_phytocopy_article_desc		value="Que prestígio? Do que você está falando? Eu tenho o mesmo QH que você. Também custo um terço do seu preço, para que até os feios possam me pagar.<br/><br/>Os tempos mudaram, avô. Hoje em dia, qualquer imbecil pode copiar DNA. Como você pode provar que sua genocópia foi construída a partir do original, e não é apenas uma das milhares de réplicas? Sua capa mostra uma falsificação de polietileno no lugar da flor original. Não há etiqueta de autenticidade. Então, fique feliz por ainda estar em um vaso… por enquanto."/>
+
+		<board_photo_geneva_desc		value="Papoulas do Campo"/>
+
+		<stiker_1_desc		value="Laranja — > 70<br/>Amarelo — > 75"/>
+
+		<stiker_2_desc		value="Seis vermelhas — acima de 70<br/>Uma vermelha — exatamente 80<br/><br/>Retirar depois das sete."/>
+
+		<stiker_3_desc		value="Duas vermelhas — 60 ou mais<br/>Duas laranjas — 80 ou mais<br/>Três amarelas — 70 ou mais"/>
+
+		<stiker_4_desc		value="Fitoreceptor está emperrado.<br/>Preciso de uma chave de fenda especial."/>
+
+		<stiker_5_desc		value="Duas vermelhas — pelo menos 75<br/>Uma amarela — exatamente 88<br/><br/>Segunda à tarde."/>
+
+		<stiker_6_desc		value="Uma vermelha > 80. Para amanhã."/>
+
+		<stiker_7_desc		value="Para depois de amanhã:<br/><br/>Cinco gérberas laranja. QH > 70<br/>Cinco gérberas amarelas. QH > 70"/>
+
+		<stiker_8_desc		value="Três vermelhas — 70 ou mais (verificar)<br/>Cinco laranjas — 80 ou mais (falta uma)<br/><br/>Medi uma pequena flor do campo. Registrou 98.<br/>Compartilhe com Tabaha. Pode ser útil."/>
+
+		<stiker_9_desc		value="O visor na tampa está congelado.<br/>Preso apenas em zeros."/>
+
+		<stiker_10_desc		value="O esterilizante está acabando."/>
+
+		<stiker_11_desc		value="Lembrar Tabaha sobre as capas."/>
+
+		<phytocopier_1_desc		value="Grace Embalmer 2"/>
+
+		<phytocopier_2_desc		value="Trabalhando com baixas temperaturas! Não tente abrir o dispositivo durante o processamento térmico."/>
+
+		<phytocopy_box1_desc		value="Sete capas por pacote."/>
+
+		<phytocopy_box2_desc		value="Capas para fitocópia. Formato P3.<br/>Compatível com as séries GE de fitocopiadoras. 1, 2, 4, 5."/>
+
+		<boots_box_desc		value="Botas de caça.<br/><br/>Seu ancestral distante usava um par semelhante.<br/>Tsetserleg. Fábrica de calçados tradicional.<br/>Destinatário: Dzhambul Batjin."/>
+
+		<women_box_desc		value="Hyperfelter-7<br/><br/>Matérias-primas: lã de ovelha, fibras sintéticas.<br/>Largura máxima do tecido acabado: 35 cm.<br/>Para tecelagem doméstica."/>
+
+		<shelving_paper_1_desc		value="Uma operação de resgate bem-sucedida foi executada, libertando reféns de alta porcentagem que passaram mais de meio ano sendo escravizados pelos chamados «mulgers». O grupo criminoso era composto por outsiders com QH criticamente baixo. O tribunal decidiu pela desativação dos perpetradores."/>
+
+		<shelving_paper_2_desc		value="O problema é que elas ficam muito gordas. Foram projetadas para estar prontas para o consumo aos três anos de idade. Hoje em dia, no entanto, ninguém as está comendo. Os animais abandonados se reproduzem, comem e engordam. E estão sempre buzinando. Centenas de ovelhas se tornaram selvagens, vagando pelas planícies e buzinando enquanto vão."/>
+
+		<genometr_box_desc		value="Genômetro<br/><br/>— Reconhece a maioria dos eucariotos conhecidos.<br/>— Tempo de detecção de QH para organismos vivos: 10-20 seg.<br/>— Funciona em superfícies sujas."/>
+
+		<around_all_2_desc		value="«Menos Um Bilhão e Meio»<br/><br/>Estamos morrendo. Já se passaram quatro anos desde o início da epidemia, e nossos nove bilhões caíram para apenas sete e meio. Apenas 30 milhões de pessoas tiveram coragem de fazer a substituição do corpo no ano passado…<br/><br/>--------------------------------------------------------------------------<br/><br/>«Syncamfacina: A Ajuda Está a Caminho»<br/><br/>Caros pais. Levando em conta as circunstâncias atuais e compartilhando sua preocupação com o destino de seus filhos, estamos tomando uma medida extraordinária — concluir os ensaios clínicos do neurometabólico prematuramente e lançar o medicamento no mercado. Em troca da concessão de indenização ao fabricante, seus filhos receberão em breve acesso gratuito ao medicamento.<br/><br/>Organização Mundial da Saúde"/>
+
+		<shelving_post_stamp_desc		value="Destinatário: Batjin Dalhaa.<br/>Endereço: Correio Central de Bayankhongor (poste restante)."/>
+
+		<shelving_paper_3_desc		value="Estação de abastecimento de tanque de termofluido. Acessível."/>
+
+		<fruit_juce_desc		value="Suco de ameixeira."/>
+
+		<colohyde_box_desc		value="Esterilizante sintético para carga da fitocopiadora."/>
+
+		<shelving_blue_label_desc		value="Fluido de polímero para processamento térmico de blanks de vegetação. Seis tanques."/>
+
+		<barrel_1_desc		value="Barril de polietileno resistente a choques. 40 l.<br/>Para ser usado na faixa de temperatura de -30 °C a +80 °C<br/>ISO 9028-2041"/>
+
+		<barrel_2_desc		value="Para produtos alimentícios frios."/>
+
+		<barrel_3_desc		value="Não destinado ao armazenamento de produtos químicos."/>
+
+		<barrel_5_desc		value="Khurunga"/>
+
+		<chair_desc		value="Fabricado na Fábrica Butsakh.<br/>15 Pioneiros da Rua Transumanismo, Choibalsan"/>
+
+		<chair_big_desc		value="Não entre em pânico. Sente-se um minuto."/>
+
+		<floor_denomination_desc		value="Nota bancária antiga de 1961."/>
+
+		<floor_phytocopier_desc		value="Hoje eu estava na fila com uma mulher e sua filha. A criança estava trocando sua cápsula de pássio pela terceira vez neste mês. Uma adolescente emotiva, sem dúvida.<br/><br/>Depois que a garota se recuperou do ataque, ela se animou imediatamente e perguntou à mãe: «Por que a cápsula fica tão pesada quando cheia?» Ao que sua mãe respondeu: «Pergunte ao seu professor de química».<br/><br/>Então pensei comigo: «De fato, por que ela fica?»"/>
+
+		<floor_note_yellow_desc		value="Central de Recebimento de Fitocópias Feias."/>
+
+		<floor_magazine_page_1_desc		value="Ninguém vai projetar um corpo do zero para que ele sirva como enfeite. Isso seria proibitivamente caro. Todas as decorações humanoides são fabricadas com base em m-corpos padrão. Sua produção já está simplificada há muito tempo, e as peças são extremamente baratas."/>
+
+		<floor_carton_1_desc		value="Enebish, Tabaha voltou com muitos pedidos novos. Muitos, na verdade. Ele é uma alma generosa. Eu disse a ele da última vez que não precisávamos de tantos, mas ele deve ter me ouvido. Uma alma inquieta, que a Providência o abençoe.<br/><br/>Avô Batjin"/>
+
+		<floor_carton_2_desc		value="Esta é uma meia.<br/>Dentro há grama."/>
+
+		<floor_magazine_blue_desc		value="Quinhentos quilômetros a oeste da costa do Chile.<br/>O Oceano Pacífico se estende de horizonte a horizonte.<br/><br/>Em contraste com seu antípoda, o Neuropolo Sul não tem «anel de silêncio». Não há nada aqui exceto água e ruído constante na frequência de 117,3 THz."/>
+
+		<floor_sticker_desc		value="— Vermelha. Pelo menos 80.<br/>— Amarela. Exatamente 71."/>
+
+		<floor_label_red_desc		value="«Rede Térmica de Ulan-Bator»<br/>Credenciais de Especialista"/>
+
+		<floor_newspapers_old_desc		value="Agora que esta falha de design foi eliminada, o novo modelo de m-corpos apresentará a lente como um elemento independente. Isso significa que não há mais idas ao centro de manutenção para reparar sua visão. Você poderá trocar sua lente de forma independente e sem reinicializar."/>
+
+		<floor_magazine_page_2_desc		value="«Programa de Substituição de Corpo Aprovado»<br/><br/>Por falta de uma solução para liquidar o vírus, não nos restou escolha. O Conselho de Segurança da ONU aprovou o lançamento de um programa abrangente para transferir a consciência humana para corpos mecânicos.<br/><br/>Numa reviravolta amarga do destino, a tecnologia de emulação de consciência — a causa de fato da epidemia — agora oferece a única alternativa para a extinção humana total."/>
+
+		<floor_label_yellow_desc		value="Declaração Aduaneira<br/><br/>Descrição: Livros Tibetanos<br/>Quantidade: Três<br/>Peso: 1.600 gramas."/>
+
+		<floor_magazine_page_3_desc		value="A correlação de componentes no pássio varia. Em alguns, o componente doce domina, enquanto em outros é o amargo. Tudo se resume ao QH.<br/><br/>Se o seu QH é medido, digamos, em quarenta, então quarenta por cento do pássio que você produz será doce, e sessenta por cento será amargo. Em suma, seu QH é igual à sua doçura.<br/><br/>Determinar o número atribuído a você pelo destino não é difícil. Basta contactar…"/>
+
+		<floor_magazine_page_4_desc		value="Estamos olhando para um reassentamento forçado e temporário. Um corpo artificial serve como refúgio temporário. Devido a esta propriedade especial, foi-lhe dado o nome de «metacorpo». Ou «m-corpo» para abreviar."/>
+
+		<floor_note_page_1_desc		value="Ele afirma que não vê nenhum «redemoinho escuro». Mas eu os vejo claramente. Vejo algo cintilando dentro deles."/>
+		
+		<floor_note_scrap_1_desc		value="Não preciso fugir dos redemoinhos; ao contrário, preciso combatê-los. Um arremesso bem direcionado com um bastão os dispersa sem falhar."/>
+
+		<floor_statistic_data_desc		value="Calendário de colheita de ervas medicinais."/>
+
+		<floor_newspaper_ub_desc		value="Recorte de jornal de 2065.<br/><br/>A análise dos restos confirmou: um neurochip que esteve na esfera por quinze anos não pode ser restaurado. Isso torna o conflito na questão do «direito do original» discutível. O proprietário do neurochip faleceu, e podemos restaurá-lo com confiança à vida, ativando uma neurocópia de backup."/>
+
+		<floor_magazine_page_5_desc		value="Ao atingir a massa crítica, o isômero amargo do pássio muda abruptamente seu estado físico, pois o inofensivo líquido preto se transforma na substância devastadora conhecida como desesperatoxina.<br/><br/>O que se segue é uma poderosa emissão de partículas e a formação de uma zona de contaminação mortal. Por razões ainda desconhecidas, a zona assume uma forma esférica com fronteiras claramente identificáveis."/>
+
+		<floor_telecast_desc		value="«Observei minha morte quarenta e sete vezes».<br/><br/>Ryan Gillen, o descobridor do ataque de pânico, lembra de suas primeiras experiências em emulação de consciência."/>
+
+		<floor_note_page_2_desc		value="O avô o ouviu, envergonhado por não ter decorado a casa antes, e concordou com o negócio. Ele não pagou muito, já que não funciona e não pode falar. Mas pelo menos agora temos um recipiente para armazenar fitocópias descartadas."/>
+
+		<floor_magazine_page_6_desc		value="Caro Odbayar!<br/><br/>Sem dúvida, o pássio doce, como você observou apropriadamente, é o «coração de todas as coisas virtuosas». No entanto, apesar do nome «saboroso», não possui propriedades de confeitaria. O isômero doce do pássio, assim como seu equivalente amargo, foram assim nomeados devido ao seu cheiro, não ao sabor.<br/><br/>Vários anos atrás, quando nossas vidas ainda não tinham sido viradas de cabeça para baixo, alguns gramas de uma substância desconhecida chegaram aos microscópios de alguns cientistas. A descoberta subsequente foi que o líquido translúcido era uma mistura de seus dois isômeros — duas substâncias com propriedades inteiramente diferentes.<br/><br/>Após a secreção da mistura geral, o primeiro isômero assumiu um brilho violeta e uma fragrância doce e agradável, ganhando assim o nome de «elemento doce». O segundo isômero — um líquido preto e viscoso com um fedor repulsivo — foi igualmente apropriadamente apelidado de «elemento amargo».<br/><br/>Naquela época, ninguém podia apreciar a ironia de usar nomes culinários espirituosos para batizar dois elementos de poder extraordinário que chegaram até nós das entranhas inexploradas do universo."/>
+
+		<floor_note_carton_desc		value="O gerador solar não era o problema. Não precisava removê-lo. Eram as duas baterias de armazenamento com as placas estouradas. A terceira está boa. Limpei as conexões — ainda tem alguma vida.<br/><br/>Batjin"/>
+
+		<floor_polar_station_desc		value="Estação de Pesquisa Khangai. 2056.<br/>Os métodos de transferência padrão e alternativo.<br/><br/>O método alternativo garante a transferência da memória de curto prazo do doador para o receptor com três vezes a eficácia do método padrão. Ao fazer isso, o receptor adquire não apenas as memórias do doador, mas também suas atitudes psicoemocionais, que são então firmemente ancoradas em sua consciência.<br/><br/>Além disso, o risco relacionado ao efeito MPR-1 não deve ser negligenciado. Como medida de precaução para atenuar o sentimento de apego ao doador, recomenda-se anular a memória de curto prazo do receptor imediatamente após a transferência."/>
+
+		<floor_bill_desc		value="Vale de compras para três rolos de feltro."/>
+
+		<floor_punched_card_desc		value="Experimento nº 402.<br/>Cartão de relatório automático.<br/>No lugar de alguns números, há orifícios retangulares."/>
+
+		<ida_floor_note_desc		value="Hoje vi uma máquina sob a cúpula. Ela estava zumbindo, levantando nuvens de areia, e pegando algo do chão com suas garras — não consegui distinguir o que à distância. Sua parte inferior bateu no cercado enquanto voava. Depois encontrei objetos estranhos por perto — devem ter caído de seu ventre. Vou limpá-los e pendurá-los na parede."/>
+
+		<ida_floor_sticker_desc		value="Notei faíscas saindo de um poste no alto da colina. Preciso lembrar de avisar Tabaha. Ele não deve acelerar neste trecho."/>
+
+		<table_2_note_1_desc		value="Quase caí do outro lado. Uma tábua escorregou sob meus pés. Tabaha gritou comigo quando contei a ele. Se eu cair atrás do cercado, não haveria ninguém para me resgatar, disse ele. E ele está certo. Que inferno com aqueles canteiros de flores."/>
+
+		<table_2_note_2_desc		value="Lembro onde vi um ponto como este. Em um cartão-postal.<br/>Vou procurá-lo no lixo amanhã."/>
+
+		<table_2_bill_desc		value="Vale de compras<br/><br/>— Livro, As Regras da Alteração do QH<br/>— Mapa de Ulan-Bator"/>
+
+		<table_2_paper_1_desc		value="A natureza do agente viral é praticamente não estudada. Não se sabe como as partículas de desesperatoxina se replicam ao infiltrar o corpo humano, nem por que elas visam especificamente as células embrionárias.<br/><br/>Enquanto isso, a epidemia está assumindo proporções colossais, ameaçando a própria…"/>
+
+		<table_2_paper_2_desc		value="Mesa amarela — QH: 82<br/>Ameixeira — QH: 61<br/>Besouro — QH: 59<br/>Ongots — QH: ?<br/>Enebish — QH: ?"/>
+
+		<cheese_desc		value="Algo comestível. Um sabor indistinto."/>
+
+		<sattelite_1_desc		value="Antena parabólica.<br/>Fabricante: Tiau Gao. China."/>
+
+		<sattelite_2_desc		value="Para sua segurança: Use apenas os acessórios originais!"/>
+
+		<weelbarrow_magazine_desc		value="«Substância do Nada»<br/><br/>Um fenômeno físico curioso está sendo observado durante experimentos de sincronização de neurochips com cópias de DNA. Um condensado de substância desconhecida vem se formando dentro de seções completamente à prova de ar do mecanismo de ressonância.<br/><br/>Os dados obtidos de suas propriedades químicas certamente causarão ondas de choque na comunidade científica, afirmam os pesquisadores."/>
+
+		<support_leg_1_desc		value="Tipo PSG 40-2VPG"/>
+
+		<support_leg_2_desc		value="Data da inspeção: 3 de maio de 2058.<br/>Inspetores: Batzaya Ganbat e Ganbayar Chinbat.<br/>S8 Engineering Corp."/>
+
+		<support_leg_3_desc		value="Resultados da inspeção:<br/><br/>— Ausência de ruído ou vibração estranha.<br/>— Nenhuma corrente volátil observada.<br/>— As leituras dos instrumentos estão dentro da faixa de 5-6 T.<br/>— A temperatura no bolso não excede +90 °C.<br/>"/>
+
+		<toybox_card_01_desc		value="Brinde de chiclete.<br/>Um herói de quadrinhos mongol mata um dragão."/>
+
+		<toybox_card_02_desc		value="Minicalendário para 2058.<br/>«Anéis do Céu»: A construção começou!"/>
+
+		<toybox_glass_desc		value="Bolinhas de vidro. Frias e pesadas."/>
+
+		<toybox_cover_desc		value="«Tesouro de Doces»<br/>Uma seleção de balas."/>
+
+		<mailbox_desc		value="Correio Mongol<br/><br/>Terminal de comunicação epistolar nº 905.<br/>Data da última carga do cartucho: 1º de julho de 2058."/>
+
+		<mailbox_letter_desc		value="Envelope vazio."/>
+
+		<train_group_photo_01_desc		value="Três homens com uniforme da Mongolian Speedways. Assinado abaixo: «Ulan-Bator, 2054»"/>
+
+		<train_group_photo_02_desc		value="Corpos podem ser substituídos. Mas não os amigos.<br/>Tarhan, Tabaha e Batar.<br/>2056."/>
+
+		<train_adv_girl_01_desc		value="Esperando por você na costa azul. Verão de 2035."/>
+
+		<train_adv_drink_desc		value="Página de uma velha revista erótica."/>
+
+		<train_erotic_photo_01_desc		value="Amanda Simpson. QH: 94<br/><br/>A famosa modelo fotográfica concordou em lançar uma edição limitada de sua genocópia para a criação de namoradas de contato de elite. Todos os fundos serão doados ao Apoie o Feio — uma campanha de reabilitação psicológica para mulheres outsiders."/>
+
+		<train_erotic_photo_02_desc		value="Cherry 3000 Namorada de Contato. QH: 92"/>
+
+		<train_oval_photo_girl_red_desc		value="Dama de vermelho."/>
+
+		<train_oval_photo_girl_white_desc		value="Quociente de Hereditariedade (QH) — avaliação da sanidade do aparato hereditário. Saúde do DNA. Pureza do DNA.<br/><br/>Você sabia que:<br/>O maior QH registrado até hoje é de 98 por cento."/>
+
+		<train_paper_on_window_desc		value="Advertência.<br/><br/>Emitida para o Sr. Tabaha Bayar. Obstruiu o fornecimento público de informações sobre seu quociente de hereditariedade. Usou um marcador para alterar a leitura de seu visor de 32 para 82. Decorou o visor com joias falsas.<br/><br/>Serviço de Evacuação de Ulan-Bator."/>
+
+		<train_schedule_desc		value="«Serviço de Entrega Expressa Bayankhongor-Tsetserleg»<br/>Conhecimento de embarque.<br/>Carga: caixas, móveis, tapetes, frutas secas."/>
+
+		<train_electronic_panel_desc		value="Previsão do tempo: Parcialmente nublado. Chuva à tarde.<br/><br/>Cotação do pássio doce: 903 unidades por grama.<br/><br/>Prazo de conclusão do Projeto Novo Começo: ~800 anos.<br/><br/>Níveis de teor de desesperatoxina: Substancialmente acima do normal. Recomendamos sair da zona de perigo imediatamente."/>
+
+		<train_adv_girl_02_desc		value="Quer levar uma vida normal, como antes? Lembra do que precisa ser feito para que isso aconteça? Tudo que você precisa é enviar um texto «3513» para o passado. Você consegue enviar textos para o passado? Não, não consegue. Nós também não. Então relaxe. Você não pode mudar nada de qualquer maneira.<br/><br/>3513 Bebida Alcoólica."/>
+
+		<train_newspaper_on_floor_desc		value="Recorte de jornal antigo.<br/><br/>Pela primeira vez em sete anos, o Comitê de Segurança Pública está falando seriamente sobre a possibilidade de retornar aos nossos corpos naturais anteriores.<br/><br/>Todos os planos dependem do Projeto Novo Começo — uma operação de longo prazo e sem precedentes de caro, visando a liquidação completa do vírus."/>
+
+		<train_schedule_crumpled_desc		value="Conhecimento de embarque antigo.<br/>Carga: tampões para juntas de ombro (duas caixas)."/>
+
+		<train_paper_crumpled_on_stair_desc		value="Tabaha, os preços dos meus reparos são mais do que justos. Você deveria aceitar. Ou entregue o sensor de temperatura para aqueles alcoólatras de Tsetserleg. Você pagará menos, mas depois não reclame quando estiver congelando em pleno calor."/>
+
+		<train_pennant_desc		value="Segundo Lugar.<br/>«Corridas de Locomotivas» Competições Corporativas<br/>Mongolian Speedways."/>
+
+		<train_table_desc		value="Horário de voos especiais.<br/>Aeroportos de Tsetserleg e Bayankhongor."/>
+
+		<train_paper_violet_desc		value="Um livro, uma mulher e um frasco de vinho:<br/>Eles fazem o céu para mim; pode ser o teu<br/>Um lugar azedo de cantar frio e nu —<br/>Mas, então, eu nunca disse que teu céu era meu.<br/><br/>Omar Khayyám."/>
+
+		<train_card_red_desc		value="Promoção «Mais Um Dia»<br/>Para pessoas com pássio não lucrativo.<br/>Cole 100 adesivos, ganhe uma ração diária de combustível."/>
+
+		<train_paper_toll_desc		value="Como reduzir o consumo de energia do seu m-corpo.<br/>Conselhos úteis para outsiders."/>
+
+		<train_note_on_front_window_desc		value="Fabricante: S8 Engineering Corp<br/>Cliente: Instituto de Neurocampo Relíquia"/>
+
+		<danger_sign_desc		value="Pare!<br/>Perigo!<br/>Área contaminada com desesperatoxina!"/>
+
+		<garden_manual_01_desc		value="O Jardim de Gérberas<br/>Instrução 1. Problema na Terra das Flores.<br/><br/>Era uma vez, longe destas terras, uma bela e florescente Terra das Flores, repleta de plantas raras e adoráveis. Seus cidadãos eram alegres, extraindo força e inspiração da beleza das flores que os cercavam. Não conheciam preocupações, sempre cantando e aproveitando a vida.<br/><br/>Até que um dia uma bruxa feia chamada Lilith, movida pelo ódio a todas as coisas belas, lançou uma chuva tóxica sobre a terra. As flores pereceram, e os cidadãos, privados de sua fonte de força, caíram em sono profundo.<br/><br/>Apenas uma garota foi capaz de resistir ao ataque do sono. Quando as nuvens escuras se reuniram sobre a terra, uma bela garota chamada Ora conseguiu colher algumas gérberas e, protegendo-as da chuva, fugiu da terra deserta.<br/><br/>Do lado de fora da nave, a distância até os visitantes é inferior a dois pés. Gesticulação prejudicada."/>
+
+		<garden_manual_02_desc		value="O Jardim de Gérberas<br/>Instrução 2. Novo Refúgio.<br/><br/>Longa ela vagou por terras estrangeiras, alimentando a esperança de um dia retornar para casa. As flores que havia levado consigo murcharam, e então ela lutou contra o desejo de dormir. Apenas as sementes haviam restado das gérberas.<br/><br/>E então, um dia Ora chegou a um prado verde. Caindo na grama de exaustão, ela tirou as sementes de sua bolsa, estendeu o braço com o resto de suas forças e as espalhou ao redor antes de finalmente sucumbir ao sono.<br/><br/>Quando acordou, a garota descobriu que as sementes haviam brotado — ela estava deitada em uma ilha de gérberas. A força de Ora retornou a ela, e antes do fim ela cultivou um jardim adequado — o Jardim de Gérberas.<br/><br/>Amplifique o fundo sedativo se o vômito piorar: intra-emissores — 2K, emissor central — 10K."/>
+
+		<garden_manual_03_desc		value="O Jardim de Gérberas<br/>Instrução 3. Crescendo Forte.<br/><br/>A notícia do Jardim de Gérberas se espalhou por toda parte. As pessoas viajavam de todos os lugares para admirar as flores maravilhosas. Alguns ficaram tão encantados com sua beleza que decidiram se mudar para o Jardim e cuidar dele junto com Ora.<br/><br/>Hoje em dia, o Jardim está prosperando. Seus habitantes coletam sementes de flores. Depois de encher quatro sacos, eles irão para a terra natal de Ora e banirão Lilith, então semearão os prados locais com flores e despertarão os cidadãos adormecidos.<br/><br/>Um boato diz que Lilith está tramando para atrapalhar seus planos. Para enfrentá-la em batalha, os amigos prepararam corpos protetores e fortalecedores para si, bem como espadas mágicas carregadas de beleza — a perdição da bruxa. E no caso de Lilith lançar sua chuva tóxica sobre o Jardim de Gérberas, eles construíram uma grande cúpula protetora sobre ele.<br/><br/>Anfitrião e assistente devem tomar as posições iniciais. Ativar máquinas de fumaça."/>
+
+		<garden_manual_04_desc		value="O Jardim de Gérberas<br/>Instrução 4. Inimigo Interno.<br/><br/>Fiquem à vontade, queridos convidados. Ora saiu para buscar água no lago, e voltará em breve. E aí está ela. Vestindo um curto vestido de verão e cantarolando uma melodia adorável, Ora está regando uma flor com um grande regador. Mas o que é isso? O que está acontecendo com a flor?! A flor regada começa a fumegar e murchar rapidamente, transformando-se rapidamente em um espinho preto. A bruxa enfeitiçou a água do rio!<br/><br/>Uma cabeça peluda emerge de uma nuvem de fumaça preta. Ora desembainha sua espada: «Você não arruinará o Jardim de Gérberas, Lilith!» A cabeça rosna em resposta. Ora não pode enfrentar a bruxa — ela bebeu a água do rio e agora está sob um feitiço! A espada escorrega das mãos da garota, e ela afunda no chão. Lilith envolve seu belo corpo sem vida com fumaça espessa.<br/><br/>No final do episódio, os marionetistas se movem para a plataforma do terceiro estágio."/>
+
+		<garden_manual_05_desc		value="O Jardim de Gérberas<br/>Instrução 5. Os Dez Corajosos.<br/><br/>A perversa Lilith desmontou o corpo mecânico de Ora em vinte pedaços e os espalhou pelo globo. Sem Ora, os residentes do Jardim estão impotentes contra a bruxa — mais cedo ou mais tarde, ela conseguirá envenenar todas as flores do Jardim. Somente vocês, amigos, podem trazer de volta nossa maravilhosa jardineira! Embarquem em uma missão, encontrem todas as partes do corpo dela e tragam-nas aqui. Nós a montaremos novamente e traremos Ora de volta à vida!<br/><br/>Com sua determinação inabalável, dez corajosos amigos viajam para os cantos mais remotos do mundo, juntando Ora novamente, peça por peça.<br/><br/>A temperatura nos pavilhões deve ser mantida acima de +18 °C para garantir a projeção de qualidade dos sonhos no monitor do palco. Os elevadores devem ser bloqueados quando os participantes se movimentam entre os níveis."/>
+
+		<garden_manual_06_desc		value="O Jardim de Gérberas<br/>Instrução 6. Elementos da Beleza.<br/><br/>Obrigado, amigos! Agora temos todas as partes necessárias. É hora de montar Ora novamente. O único problema é que esquecemos completamente como ela era! O que é esta parte? E aquela? Temos que juntá-las corretamente para chegar à nossa bela Ora. Parece que precisaremos da sua ajuda mais uma vez.<br/><br/>Os residentes do Jardim de Gérberas e seus jovens assistentes remontam cuidadosamente o corpo da garota, peça por peça. Finalmente, Ora está inteira novamente. Ela volta à vida e investe contra Lilith. Sua espada golpeia uma vez, depois duas, faíscas voam, e Lilith foge, chiando de fúria. O Jardim de Gérberas está livre!<br/><br/>Ao trabalhar com a placa, direcione a atenção dos participantes para os indicadores de fidelidade antropomórfica."/>
+
+		<garden_manual_07_desc		value="O Jardim de Gérberas<br/>Instrução 7. Gratidão e Glória.<br/><br/>Amigos! Graças ao seu valor, conseguimos derrotar Lilith. Vocês ganharam o direito de serem chamados de guerreiros do Jardim. E agora cada um de vocês será recompensado com seu próprio corpo protetor e espada mágica!<br/><br/>Anuncie o nome do próximo participante após o departamento de descarte confirmar a morte biológica do doador anterior."/>
+
+		<garden_manual_08_desc		value="O Jardim de Gérberas<br/>Instrução 8. Um Novo Começo.<br/><br/>Quem poderia prever que os jovens convidados do Jardim de Gérberas pegariam a bandeira da beleza e acabariam sendo seus salvadores! Todos crescidos em seus belos corpos novos com um toque de peso em seus corações, os Guerreiros do Jardim voltam para casa. Adeus, Jardim de Gérberas!<br/><br/>Antes de anunciar a reunião final, o movimento livre por todo o território é encorajado."/>
+
+		<garden_tablet_facility_1_desc		value="Edifício 1<br/><br/>— Departamento Administrativo<br/>— Departamento de Pesquisa<br/>— Pessoal"/>
+
+		<garden_tablet_facility_2_desc		value="Edifício 2<br/><br/>— Departamento de Computadores<br/>— Departamento de Filmagem"/>
+
+		<garden_tablet_facility_4_desc		value="Edifício 4<br/><br/>— Departamento de Embalagem"/>
+
+		<garden_waste_container_desc		value="— Herbert Martinez. 5 anos QH: 74 IDN: 1B F28 4F3 0839<br/>
+													— Carolyn Mate. 6 anos QH: 68 IDN: 1Z E63 4F3 26 8154<br/>
+													— Kenneth Ragsdale. 6 anos QH: 45 IDN: 1Z 600 65F 59 3351<br/>
+													— Kevin Rodriguez. 5 anos QH: 34 IDN: 1B 9V7 F40 35 139<br/>
+													— Ben Schneider. 6 anos QH: 46 IDN: 1GE37 E84 60 8749<br/><br/>
+													Impresso em 14/08/2058"/>
+
+		<garden_transferer_01_desc		value="Cabine de transferência alternativa<br/><br/>
+											Desenvolvedor da tecnologia modificada:<br/>
+											Instituto de Neurocampo Relíquia. 2056.<br/><br/>
+											Atenção!<br/>
+											Siga os procedimentos de segurança.<br/>
+											Durante o procedimento, a entrada na cabine é proibida."/>
+
+		<garden_transferer_02_desc		value="Atenção!<br/>
+											Faça um «gesto de confirmação» após o sinal sonoro."/>
+
+		<garden_transferer_03_desc		value="Cartão de relatório automático."/>
+
+		<hovercraft_console_desc		value="O comprimento da distância de frenagem é calculado automaticamente. Entre em contato com o suporte técnico em caso de quebra do equipamento."/>
+
+		<hovercraft_sign_desc		value="Atenção!<br/>Radiação intensa!<br/>Observe todos os procedimentos de segurança!"/>
+
+		<hovercraft_logotype_desc		value="S8 Engineering Corp"/>
+
+		<west_suburbs_relict_theory_01_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 1.<br/><br/>Há 200.000 anos, os primeiros espécimes de Homo Sapiens eram capazes de transferir telepaticamente uns aos outros o conteúdo de suas próprias memórias de curto prazo através de uma pequena seção do cérebro localizada na região do hipocampo. Hoje, esta seção é conhecida como «Ponto Mudo». O Ponto Mudo simultaneamente recebia e transmitia os sinais do cérebro para um neurocampo comum.<br/><br/>A população dos povos pré-históricos contava com dezenas de indivíduos, e sua memória de curto prazo continha apenas as emoções mais simples. Como resultado da troca de memórias, cada hominídeo experimentava a soma total de todas as emoções dos outros membros da tribo. O propósito da função da habilidade telepática permanece incerto até hoje."/>
+
+		<west_suburbs_relict_theory_02_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 2.<br/><br/>O ponto mudo permanecia em estado inativo a maior parte do tempo, ativando-se apenas durante a sessão de transmissão, seja por esforço interno do indivíduo ou no momento de receber um sinal de entrada. Ao final da sessão de transmissão, cada participante experimentava um sentimento profundamente positivo de satisfação chamado de «Reação do Ponto Mudo-1».<br/><br/>Com o passar dos anos, a população humana cresceu, sua capacidade de memória e espectro emocional se expandiram. 50.000 anos depois, quando a população atingiu várias centenas de milhares, o neurocampo tornou-se congestionado — enormes volumes de informações variadas bombardeando constantemente a consciência tornaram a troca de memórias um procedimento inútil e cansativo, não mais cumprindo sua função original."/>
+
+		<west_suburbs_relict_theory_03_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 3.<br/><br/>Com o tempo, buscando se proteger contra a barragem de informações, o ponto mudo adquiriu a capacidade de filtrar o sinal de entrada, deixando passar apenas as partes transmitidas por membros genealogicamente próximos da tribo. O sinal de cada indivíduo era agora criptografado por um fragmento particular de seu DNA — quanto mais correspondências nos fragmentos de DNA entre emissor e receptor, mais livremente o sinal telepático se movia entre eles.<br/><br/>Em virtude de certas propriedades únicas em sua estrutura, o ponto mudo transmitia sinais exclusivamente na frequência de 117,3 THz. Incrivelmente, a frequência era usada por todos os habitantes do planeta para compartilhar memórias. À medida que a população crescia e o neurocampo se tornava cada vez mais tenso, o sinal se tornava mais distorcido, chegando ao receptor como ruído ininteligível. Tendo perdido a capacidade de realizar sua função, o ponto mudo começou uma transformação em um órgão rudimentar."/>
+
+		<west_suburbs_relict_theory_04_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 4.<br/><br/>Após milhares de anos de evolução, a estrutura do ponto mudo foi modificada a tal ponto que ativá-lo por esforço interno tornou-se impossível — após anos de dormência nas profundezas do hipocampo, as conexões entre o órgão e o sistema nervoso central atrofiaram. Sendo passado de geração em geração junto com o restante do material genético, por falta de uso, o ponto mudo tornou-se um mecanismo autônomo e sem propósito. O método de filtração também mudou, bloqueando todos os sinais de entrada, exceto aqueles em que a chave de DNA do emissor correspondia 100% à do receptor. Como resultado, o único receptor potencial de um sinal telepático tornou-se o próprio emissor.<br/><br/>É esta encarnação do órgão que conhecemos hoje como «ponto mudo». Ele está presente em todos os humanos modernos, ainda enviando o fragmento de memória ocasional para a atmosfera «por força do hábito». Esses sinais continuam a vagar pelo Neurocampo Relíquia da Terra, transbordando de mensagens sem destinatários."/>
+
+		<west_suburbs_relict_theory_05_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 5.<br/><br/>O homem moderno emite sua memória em média 2-3 vezes ao longo da vida. A transmissão dura de 5 a 10 segundos e é sempre acompanhada por uma sensação muito particular — uma mistura peculiar de ansiedade e pesar. A sensação pode ser comparada a um estado em que você se apressa para passar alguma mensagem importante para alguém, mas de repente esquece seu conteúdo e destino, deixando você com a sensação de que a mensagem urgente permanece não entregue.<br/><br/>A sensação foi apelidada de «Efeito Babilônico» ou «Reação do Ponto Mudo-0». É a reação do ponto mudo à ausência de sinal de entrada — não obtendo resposta à mensagem transmitida, o ponto mudo inicia a secreção de compostos químicos no corpo, cuja soma total formula essa sensação muito particular."/>
+
+		<west_suburbs_relict_theory_06_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 6.<br/><br/>A ativação do ponto mudo é impedida pela comunicação entre a consciência e o DNA, cuja interrupção, mesmo por um breve período, resulta em uma patologia mortal para o sistema nervoso, induzindo um estado de «ataque de pânico» no indivíduo. Como o ponto mudo permanece inativo na maior parte de nossas vidas, tais casos de interrupção são extremamente raros.<br/><br/>No entanto, o organismo pode às vezes experimentar estados especiais nos quais essa comunicação pode ser «pausada» com segurança por um breve período de tempo para desencadear a ativação do ponto mudo. Um exemplo de tal estado é o amor."/>
+
+		<west_suburbs_relict_theory_07_desc		value="Estação de Pesquisa Khangai. 2053. Relatório.<br/>Explicando o efeito Reação do Ponto Mudo-0.<br/>Página 7.<br/><br/>Quando uma pessoa está apaixonada, os processos de seu sistema nervoso têm um efeito anestésico, permitindo que a consciência «libere» o DNA sem dor e sem cair em estado de pânico.<br/><br/>Além disso, os sistemas nervosos de algumas pessoas estão predispostos a interrupções arbitrárias na comunicação com o DNA. Essas pessoas são mais propensas a experimentar o Efeito Babilônico, embora permaneçam ignorantes das causas subjacentes à sensação estranha."/>
+
+		<west_suburbs_geneva_university_desc		value="Instituto de Neurocampo Relíquia Genebra.<br/>Estação de Pesquisa Polar Khangai.<br/>Fundada em 2050."/>
+
+		<west_suburbs_easter_egg_01_desc		value="Estação de Pesquisa Khangai. 2050.<br/><br/>Tudo começou com o «ponto mudo». A descoberta acidental desta minúscula região do cérebro lançou as bases para uma série de grandes investigações científicas. Mesmo há dois anos, estávamos totalmente ignorantes sobre o neurocampo e seus polos, e a palavra «telepatia» evocava sorrisos indulgentes.<br/><br/>Hoje, tudo isso mudou. Aqui na estação, estamos procurando uma maneira segura de ativar o ponto mudo — a enigmática região do cérebro que herdamos de nossos ancestrais distantes. Estamos confiantes de que, num futuro muito próximo, nossos sujeitos de teste conseguirão transmitir fragmentos de suas memórias uns aos outros. O recente experimento com gêmeos serve como a melhor base para nosso otimismo.<br/>"/>
+
+		<west_suburbs_easter_egg_02_desc		value="Estação de Pesquisa Khangai. 2050.<br/><br/>Por que nos estabelecemos tão longe do Instituto?<br/>Porque foi assim que os Polos se organizaram há milhares de anos.<br/><br/>Condições físicas favoráveis são necessárias para conseguir transmitir memórias. Ou seja, neutralizar o neuroruído onipresente e sua distorção impiedosa de todos os sinais telepáticos. O ruído está ausente apenas dentro dos limites do «Anel de Silêncio». E o planeta Terra tem apenas um deles — localizado no Neuropolo Norte.<br/><br/>"/>
+
+		<west_suburbs_easter_egg_03_desc		value="Estação de Pesquisa Khangai. 2055.<br/><br/>O método que desenvolvemos não tem a intenção de substituir a transferência espelho universalmente aceita. Realizamos experimentos na parte pouco estudada do sistema nervoso. A «transferência alternativa» é apenas isso — mais um de uma série de tais experimentos. Um que é bastante difícil e perigoso para os sujeitos de teste.<br/><br/>A anestesia pode ser ruinosa para o sistema nervoso, resultando em um choque emocional de grande magnitude durante a transferência e um Efeito Babilônico incessante e vitalício. É um preço muito alto a pagar por uma maneira não padrão de substituir o corpo. De fato, é difícil imaginar as circunstâncias extraordinárias que exigiriam a ampla e pública aplicação da transferência alternativa."/>
+
+		<west_suburbs_easter_egg_04_desc		value="Estação de Pesquisa Khangai. 2056.<br/><br/>Ele afirmou ter sido convocado para Genebra. O Instituto foi contratado para auxiliar em um projeto internacional. Os resultados de nossas pesquisas eram aparentemente urgentemente necessários, nomeadamente a tecnologia de transferência alternativa. O projeto está de alguma forma ligado à história recente das crianças às quais foi administrado um neurometabólico.<br/><br/>Ele não incluiu detalhes, mas disse que uma construção em grande escala se desenrolaria em breve aqui. «Aqui» significando na localização da nossa estação, no Anel de Silêncio. Seria bom saber o que está acontecendo. Não resta nada a fazer senão esperar por atualizações."/>
+
+		<gravestone_batjin_desc		value="Lápide<br/><br/>Avô Batjin Dalhaa<br/>2003 - 2072"/>
+
+		<east_suburbs_easter_egg_01_desc		value="«Miligramas de Emoções»<br/><br/>Já se passaram vários anos desde que as páginas desta mesma revista serviram como fórum para uma animada discussão sobre uma descoberta maravilhosa, onde um sincronizador de alguma forma materializou uma substância equivalente a emoções.<br/><br/>Era agradável ponderar sobre o fenômeno misterioso, presumindo que ele nunca sairia dos confins de seu laboratório. No entanto, o fenômeno desde então escapou e, pelo que parece, entrou em nossas vidas pessoais por muitos anos.<br/><br/>Com o tempo, nos acostumaremos com a ideia de que nossas próprias emoções produzem involuntariamente um elemento químico que, até ontem, não fazia parte da tabela periódica. Acostumados com o conhecimento de que cada emoção que experimentamos adiciona alguns miligramas de Pássio-433 a uma cápsula em nossos peitos."/>
+
+		<east_suburbs_easter_egg_02_desc		value="O trabalho de Helmut Koch, outrora rejeitado por seus colegas, foi aceito pela comunidade científica com fatal tardança.<br/><br/>Um modelo comportamental avançado da «substância amarga» de fato prevê uma mudança abrupta em suas propriedades ao atingir uma massa crítica de 31 gramas. O erro do modelo anterior, astutamente exposto por Koch, residia nos cálculos da constante de quatro dígitos, agora conhecida como «Constante de Koch».<br/><br/>No sereno verão de 2050, Koch era o único no Instituto de Neurocópia a prever o potencial sinistro do isômero amargo do pássio. Tudo o que podemos fazer agora é lamentar sua falha em encontrar sua constante e interromper as experiências de emulação de consciência antes que a tragédia acontecesse."/>
+
+		<east_suburbs_easter_egg_03_desc		value="«As Crianças Feias do Universo»<br/><br/>Esse era o nome de uma teoria particularmente fantástica. Sua alegação era que em algum lugar nos recônditos sombrios da física existe um mecanismo que impede a formação de corpos geométricos de certas formas e proporções no Universo. Um mecanismo de filtragem. Um controle de aparência que se manifestava em todas as escalas — desde a molecular até a galáctica.<br/><br/>E que tudo ao nosso redor surgiu e continua existindo apenas porque passou com sucesso por esta seleção. Desde tempos imemoriais, a natureza tem «abençoado» a existência de formas «agradáveis», ao mesmo tempo em que rejeitava aquelas que de alguma forma falhavam em se conformar com seus «padrões de harmonia».<br/><br/>O mecanismo funcionou sem falhas por muitos milênios — até que uma forma previamente aprovada foi descoberta por ter cessado sua conformidade com o padrão. Uma vez cheia de terno amor por sua criatura, a natureza de repente viu que ela era feia. E sua ternura se transformou em repulsa. Nas profundezas do Universo, uma carga de repulsa pela forma queer e «imprópria» foi acumulando força.<br/><br/>A forma imprópria em questão era o homem. A humanidade. Nós. Há milhares de anos, a natureza nos viu pelo agente estrangeiro que éramos, em conflito com a forma geral. Como um embrião abortado, deveríamos ter sido destruídos pelos mecanismos naturais ainda então, mas isso não aconteceu.<br/><br/>Tendo nos ajustado a viver em desfavor, ao longo dos anos exacerbamos a perturbação no Universo sem sequer perceber. Só podemos adivinhar quando a perturbação teria inevitavelmente irrompido à superfície se não a tivéssemos libertado nós mesmos na forma da substância chamada pássio."/>
+
+		<east_suburbs_easter_egg_04_desc		value="O prazo para o Projeto Novo Começo cresce a cada dia que passa. Até recentemente, o Fundo de Resgate estava sendo reabastecido de acordo com um cronograma rigoroso, a caminho de coletar quatro megatoneladas de pássio doce dentro de várias décadas.<br/><br/>O esgotamento emocional entre a elite arruinou essas projeções. No ano passado, a data estimada para o Novo Começo recuou dois séculos. E continua a deslizar inexoravelmente para um futuro cada vez menos certo."/>
+
+		<east_suburbs_easter_egg_05_desc		value="Um jovem declara seu amor por uma garota. Na verdade, não ouvimos a declaração em si — a música começa com a resposta da garota. Ela diz a ele: «Você precisa saber uma coisa. Eu gostaria muito de ficar com você, mas não posso. Tenho mil anos de idade, sabia, e você tem apenas um. E neste momento está deitado num berço».<br/><br/>Ela então o instiga a sair do berço. Ela diz: «Quando você se levantar, entenderá que não estou aqui. Você precisará percorrer um caminho longo e árduo para me encontrar». Ela continua a descrever as coisas estranhas que ele encontrará em seu caminho, e então diz: «Se, depois de superar todas as dificuldades, você ainda se lembrar de como eu sou, modele-me a partir do vazio. E estaremos juntos». Finalmente, ela acrescenta: «Meu nome é Beleza».<br/><br/>Essa é a música. Ouvi no rádio ontem.<br/>Não sei o nome da faixa, nem o artista.<br/>Houve algo nela…"/>
+
+		<task_p0_intro_overall		value="<font size=24 color=#D29B28>Sonho</font><br/><br/>
+											Nossa história começa aqui. Enquanto dorme, você tem um sonho estranho e perturbado. Siga as instruções para acordar.<br/><br/>"/>
+
+		<task_p0_intro_light		value="Vá em direção à luz."/>
+
+		<task_p0_intro_table		value="Aproxime-se da mesa e clique nela."/>
+
+		<task_p1_start_note_overall		value="<font size=24 color=#D29B28>Nota</font><br/><br/>Você não se lembra do seu nome nem reconhece onde está. A nota na mesa é de seu punho.<br/><br/>"/>
+
+		<task_p1_start_note		value="Leia a nota."/>
+
+		<task_p2_ong_break_overall		value="<font size=24 color=#D29B28>Café da Manhã de Ongots</font><br/><br/>Não há ninguém por perto para ajudá-lo a lembrar o que aconteceu. Prepare o café da manhã para Ongots para encontrá-lo.<br/><br/>"/>
+
+		<task_p2_ong_break_find_pot		value="Coloque a panela vermelha no fogão."/>
+
+		<task_p2_ong_break_add_water		value="Adicione um copo de água."/>
+
+		<task_p2_ong_break_set_fire		value="Aqueça o fogão com alguns pedaços de lenha e uma folha de papel."/>
+
+		<task_p2_ong_break_cut_fruits		value="Adicione dois frutos de ameixeira cortados. A ameixeira cresce perto do lago próximo."/>
+
+		<task_p2_ong_break_add_salt		value="Adicione sal. O pote de sal fica à direita da pimenta."/>
+
+		<task_p2_ong_break_add_root		value="Adicione raiz seca. Use o pilão para moê-la."/>
+
+		<task_p2_ong_break_wait_ready		value="Aguarde até que a comida esteja cozida."/>
+
+		<task_p2_ong_break_feed_ongots		value="Leve o café da manhã para Ongots."/>
+
+		<task_p3_ong_suit_overall		value="<font size=24 color=#D29B28>Coletes de Ongots</font><br/><br/>A águia não pode falar, mas ainda assim pode ser útil para você. Troque-o.<br/><br/>"/>
+
+		<task_p3_ong_suit		value="Substitua o colete de Ongots."/>
+
+		<task_p4_enebish_pad_overall		value="<font size=24 color=#D29B28>Diário de Enebish</font><br/><br/>Há um número de quatro dígitos na parte interna do colete. É uma chave para informações valiosas.<br/><br/>"/>
+
+		<task_p4_enebish_pad		value="Encontre uma aplicação para o número."/>
+
+		<task_p5_toy_box_overall		value="<font size=24 color=#D29B28>Brinquedo Favorito</font><br/><br/>O esconderijo do seu filho está em algum lugar próximo.<br/>«Saia da yurt e voe em linha reta como o corvo. Em uma rocha com um galho seco, procure uma flecha. Uma árvore triste lhe mostrará o caminho. Uma caixa na areia trairá um mistério».<br/><br/>"/>
+
+		<task_p5_toy_box		value="Encontre seu brinquedo."/>
+
+		<task_p6_meet_ida_overall		value="<font size=24 color=#D29B28>Vaso de Flores</font><br/><br/>Seu brinquedo favorito quando criança era um dispositivo de processamento, a parte principal de um corpo mecânico. Há mais duas partes na yurt. Use-as para consertar a jovem mulher androide — ela pode fornecer informações valiosas.<br/><br/>"/>
+
+		<task_p6_meet_ida_neuro		value="Conecte o processador à jovem."/>
+
+		<task_p6_meet_ida_sync		value="Encontre e conecte o sincronizador."/>
+
+		<task_p6_meet_ida_container		value="Encontre e conecte o recipiente."/>
+
+		<task_p6_meet_ida_talk		value="Ligue a mulher mecânica e fale com ela."/>
+
+		<task_p7_breath_mod_overall		value="<font size=24 color=#D29B28>Valor Universal</font><br/><br/>Incapaz de respirar ar, uma pessoa em um m-corpo sente desconforto. Vá ao parque de diversões abandonado e consiga um módulo de respiração para Ida.<br/><br/>"/>
+
+		<task_p7_breath_mod_complex		value="Atravesse o cercado."/>
+
+		<task_p7_breath_mod_7		value="Encontre e procure no sétimo pavilhão."/>
+
+		<task_endless_sands_title		value="Pavilhão «Areias Infinitas»"/>
+
+		<task_endless_sands		value="— Colete 30 cubos azuis para ganhar o módulo de respiração.<br/>
+										— Arremesse cubos na corrente ascendente. Segure o botão direito<br/>
+										     do mouse enquanto arremessa para fazer uma explosão de cubos.<br/>
+											— Não caia na água — isso reduz sua pontuação.<br/>
+											— Use a corrente ascendente para se elevar.<br/>
+											— Crie plataformas — cubos valiosos estão escondidos dentro delas.<br/>
+											— Aplique um cubo azul em um branco para criar uma plataforma.<br/>
+											— Clique com o botão direito para deletar os cubos que bloqueiam seu caminho."/>
+
+		<task_p9_breath_mod_overall		value="<font size=24 color=#D29B28>Segundo Fôlego</font><br/><br/>Restaure a respiração de Ida para ajudá-la a se concentrar em suas memórias.<br/><br/>"/>
+
+		<task_p9_breath_mod		value="Encontre uma maneira de sair do território do complexo."/>
+
+		<task_p9_breath_mod_setup		value="Conecte o módulo de respiração a Ida."/>
+
+		<task_p9_breath_mod_talk		value="Fale com Ida."/>
+
+		<task_p10_meet_tabaha_overall		value="<font size=24 color=#D29B28>Motorista</font><br/><br/>Uma nave aérea está estacionada em uma estação de estrada magnética.<br/><br/>"/>
+
+		<task_p10_meet_tabaha		value="Fale com o maquinista da nave."/>
+
+		<task_p11_flowers_overall		value="<font size=24 color=#D29B28>A Mais Bela</font><br/><br/>Tabaha lhe dará a lente em troca de quatro fitocópias. Colha flores usando o medidor de genes. Você precisa: duas gérberas vermelhas com quociente de hereditariedade de 70% ou superior, uma laranja com 80% ou superior, e uma amarela com 90% ou superior.<br/><br/>"/>
+
+		<task_p11_flowers		value="Colha as flores."/>
+
+		<task_p11_flowers_phyto		value="Faça fitocópias das flores."/>
+
+		<task_p11_flowers_pack		value="Embale as fitocópias na caixa."/>
+
+		<task_p11_flowers_talk_ida		value="Fale com Ida."/>
+
+		<task_p12_reflection_overall		value="<font size=24 color=#D29B28>Reflexão</font><br/><br/>Ida precisa de fontes adicionais de informação para recordar novos detalhes de seu passado. Talvez restaurar sua visão ajude. Obtenha as peças para ajudar a consertar sua visão.<br/><br/>"/>
+
+		<task_p12_reflection_complex		value="Vá ao Jardim de Gérberas e procure no segundo pavilhão."/>
+
+		<task_tropical_island_title		value="Pavilhão «Ilhas Tropicais»"/>
+
+		<task_tropical_island		value="— Colete 30 cubos rosa para obter a tela-espelho.<br/>
+											— Arremesse cubos na corrente ascendente.<br/>
+											— Use bombas para destruir blocos cinzas.<br/>
+											— Aplique um cubo rosa em um vermelho para fazer a bomba explodir."/>
+
+		<task_p14_look_inside_overall		value="<font size=24 color=#D29B28>Sob Nova Luz</font><br/><br/>A visão restaurada de Ida a ajudará a recordar novos detalhes de seu passado.<br/><br/>"/>
+
+		<task_p14_look_inside_tabaha		value="Pegue a lente com Tabaha."/>
+
+		<task_p14_look_inside_setup		value="Instale a lente e a tela-espelho em Ida."/>
+
+		<task_p14_look_inside_ida		value="Fale com Ida."/>
+
+		<task_p15_superiority_overall		value="<font size=24 color=#D29B28>Vantagem</font><br/><br/>A fonte de energia de Ida está descarregada. Vá ao Jardim de Gérberas e obtenha uma nova bateria.<br/><br/>"/>
+
+		<task_p15_superiority_complex		value="Procure no décimo pavilhão."/>
+
+		<task_cloud_country_title		value="Pavilhão «País das Nuvens»"/>
+
+		<task_cloud_country		value="— Colete 30 cubos amarelos para ganhar a bateria.<br/>
+										— Arremesse cubos na corrente ascendente.<br/>
+										— Crie plataformas.<br/>
+										— Aplique um cubo amarelo em um branco para criar uma plataforma."/>
+
+		<task_p17_form_overall		value="<font size=24 color=#D29B28>Morfofobia</font><br/><br/>A célula de combustível de Ida está quase descarregada e precisa ser substituída.<br/><br/>"/>
+
+		<task_p17_form_set_battery		value="Instale a nova bateria em Ida."/>
+
+		<task_p17_form_talk_ida		value="Fale com Ida."/>
+
+		<task_p18_oldtv_overall		value="<font size=24 color=#D29B28>Notícias Terríveis</font><br/><br/>Ajude Ida a se conectar à Rede. Ligue a energia para o terminal de rede embaixo da TV e ligue-o.<br/><br/>"/>
+
+		<task_p18_oldtv		value="Coloque as pilhas na caixa sob o toldo."/>
+
+		<task_p18_oldtv_sun		value="Instale uma placa solar no telhado da yurt."/>
+
+		<task_p18_oldtv_term		value="Use o controle remoto para ligar o terminal."/>
+
+		<task_p18_oldtv_talk		value="Fale com Ida."/>
+
+		<task_p19_donor_overall		value="<font size=24 color=#D29B28>Brilho Residual</font><br/><br/>Ida está perdendo sua capacidade de se comunicar. Talvez substituir o sincronizador resolva o problema. Adquira um novo sincronizador.<br/><br/>"/>
+
+		<task_p19_donor_complex 	value="Procure no sexto pavilhão."/>
+
+		<task_magic_lakes_title		value="Pavilhão «Lagos Mágicos»"/>
+
+		<task_magic_lakes		value="— Colete 30 cubos laranja para obter o sincronizador.<br/>
+										— Arremesse cubos na corrente ascendente.<br/>
+										— Use bombas para destruir blocos cinzas.<br/>
+										— Aplique um cubo laranja em um vermelho para fazer a bomba explodir."/>
+
+		<task_p21_donor_overall		value="<font size=24 color=#D29B28>No Anel de Silêncio</font><br/><br/>Ida está perdendo sua capacidade de se comunicar. Substituir o sincronizador pode resolver o problema.<br/><br/>"/>
+
+		<task_p21_donor_set_synchronizer		value="Instale o novo sincronizador em Ida."/>
+
+		<task_p21_donor_ida_talk		value="Fale com Ida."/>
+
+		<task_p22_batjin_message_overall		value="<font size=24 color=#D29B28>Palavras de Despedida</font><br/><br/>Apenas seus pais podem saber o que conectava Ida e Mark. Encontre seus pertences pessoais.<br/><br/>"/>
+
+		<task_p22_batjin_message_batjin_talk		value="Interrogue Tabaha."/>
+
+		<task_p22_batjin_message_examine_bedside		value="Procure na mesa de cabeceira de Batjin."/>
+
+		<task_p23_letters_overall		value="<font size=24 color=#D29B28>Cartas Estrangeiras</font><br/><br/>Siga as instruções do avô Batjin para abrir os baús de seus pais.<br/><br/>"/>
+
+		<task_p23_letters_set_uv		value="Prenda um acessório na lanterna."/>
+
+		<task_p23_letters_right_question		value="Leia a parábola do livro sob o altar. Encontre o túmulo de Batjin perto da yurt. Use a lanterna e a pista da parábola para encontrar uma chave para os baús."/>
+
+		<task_p23_letters_check_chest		value="Procure nos baús."/>
+
+		<task_p23_ida_talk		value="Fale com Ida."/>
+
+		<task_p24_reanimation_overall		value="<font size=24 color=#D29B28>Novo Começo</font><br/><br/>A neurocópia de Ida está destruída. Você pode trazer Ida de volta à razão direcionando uma descarga elétrica para o plexo nervoso em suas costas.<br/><br/>"/>
+
+		<task_p24_reanimation_take_ida		value="Leve Ida para uma fonte poderosa de eletricidade."/>
+
+		<task_p24_reanimation_fix_ida		value="Prenda Ida em posição vertical no centro do canteiro de flores arruinado."/>
+
+		<task_p24_reanimation_electricity		value="Reanime Ida com um cabo elétrico."/>
+
+		<tutorial_move		value="<font size=24 color=#D29B28>Movimento</font><br/><br/>Use W, A, S, D para se mover."/>
+
+		<tutorial_run		value="<font size=24 color=#D29B28>Correr, Pular, Agachar</font><br/><br/>Segure SHIFT para correr. Pressione ESPAÇO para pular. Pressione e segure CTRL para agachar."/>
+
+		<tutorial_read		value="<font size=24 color=#D29B28>Leitura</font><br/><br/>Certos objetos contêm texto. Para ler o texto do suporte de informações, aproxime-se dele e clique com o botão esquerdo no suporte quando o cursor mudar de forma."/>
+
+		<tutorial_action		value="<font size=24 color=#D29B28>Ação</font><br/><br/>Clique com o botão esquerdo no portão para abri-lo."/>
+
+		<tutorial_take		value="<font size=24 color=#D29B28>Pegar</font><br/><br/>Certos objetos podem ser pegos. Clique com o botão esquerdo no cubo vermelho para pegá-lo."/>
+
+		<tutorial_inventory		value="<font size=24 color=#D29B28>Inventário</font><br/><br/>Use o inventário para carregar itens com você. Pressione E enquanto segura o cubo. Pressione E novamente para remover o item do inventário."/>
+
+		<tutorial_apply		value="<font size=24 color=#D29B28>Usar</font><br/><br/>Você pode usar certos itens em outros. Enquanto segura o item A, passe o mouse sobre o item B e clique com o botão esquerdo nele. Adicione a peça que falta ao arranjo de cubos."/>
+
+		<tutorial_throw		value="<font size=24 color=#D29B28>Arremessar</font><br/><br/>Clique com o botão direito para forçar o arremesso de um item segurado."/>
+
+		<tutorial_prompt		value="<font size=24 color=#D29B28>Dica</font><br/><br/>Você pode ocasionalmente precisar de ajuda ao longo do jogo. Pressione TAB para receber uma dica. Pressione TAB novamente para escondê-la."/>
+
+		<hint_game_over		value="<font size=24 color=#D29B28>Fim de jogo</font><br/><br/>Você pode retomar o jogo a partir do último capítulo disponível."/>
+
+		<pavilion_win		value="<font size=24 color=#D29B28>Você venceu!</font>"/>
+		<pavilion_lose		value="<font size=24 color=#D29B28>Você perdeu</font>"/>
+
+		<hint_task_added		value="<font size=24> </font><br/><br/>Nova tarefa adicionada."/>
+
+		<hint_inv_full			value="<font size=24> </font><br/><br/>Sem espaço no inventário."/>
+
+		<hint_inv_disabled		value="<font size=24> </font><br/><br/>Inventário indisponível."/>
+
+		<hint_cant_use_0		value="Isso não funciona."/>
+
+		<hint_cant_use_1		value="Não, não funciona."/>
+
+		<hint_cant_use_2		value="O item não funciona."/>
+
+		<hint_cant_use_3		value="Não, o item não funciona."/>
+
+		<hint_cant_use_4		value="Não é possível usar."/>
+
+		<hint_cant_use_5		value="Não, não é possível usá-lo."/>
+
+		<hint_cant_use_6		value="Não pode ser usado."/>
+
+		<hint_cant_use_7		value="Não consigo usá-lo."/>
+
+		<hint_cant_use_8		value="Parece que não consigo usar."/>
+
+		<hint_cant_use_9		value="Não posso usar isso aqui."/>
+
+		<hint_obj_big		value="Não preciso disso."/>
+
+		<mess_actor_p1_note		value="É minha nota."/>
+
+		<mess_actor_p2_food		value="Não estou com fome."/>
+
+		<mess_actor_p1_ongots		value="Deixe-me tentar preparar comida. Preciso encontrar essa criatura Ongots."/>
+
+		<hint_ong_break_root		value="Precisa ser moída."/>
+
+		<hint_ong_break_not_fire		value="Preciso de papel e alguns gravetos."/>
+
+		<hint_ong_break_wood		value="Lenha insuficiente."/>
+
+		<hint_ong_break_sheet		value="Preciso de papel."/>
+
+		<hint_ong_break_fruit		value="A fruta precisa ser cortada."/>
+
+		<mess_actor_p3_suit		value="Ele precisa trocar o colete."/>
+
+		<hint_vest_lock		value="Primeiro os fechos…"/>
+
+		<mess_actor_p4_numbers		value="O colete tem alguns números."/>
+
+		<mess_actor_p4_years		value="Deixe-me tentar encontrar meu esconderijo. Talvez coisas antigas forneçam uma pista sobre o que aconteceu comigo."/>
+
+		<mess_actor_p5_chip		value="Uma pequena caixa… A mesma do cartaz."/>
+
+		<mess_actor_p6_ida_disable		value="Algo está errado. É melhor desligá-la."/>
+
+		<mess_actor_p6_ida_wrong		value="Alguns componentes podem estar faltando."/>
+
+		<hint_elevator_broken		value="O elevador está quebrado."/>
+
+		<hint_elevator_6_broken		value="Este elevador está quebrado. Preciso encontrar outra maneira de chegar ao pavilhão."/>
+
+		<hint_flowers_unblown		value="Esta flor não serve — não está totalmente aberta."/>
+
+		<hint_flowers_useless		value="O botão não está totalmente aberto. Não posso usar flores assim."/>
+
+		<hint_flowers_many		value="Já tenho gérberas suficientes desta cor."/>
+
+		<hint_flowers_hq		value="Mensagem no visor: QH muito baixo."/>
+
+		<hint_flowers_slot		value="Mensagem no visor: Fitoreceptor já carregado."/>
+
+		<hint_flowers_trigga		value="Mensagem: Itens estranhos na fitocopiadora."/>
+
+		<hint_flowers_absence		value="Mensagem: Nenhuma flor na fitocopiadora."/>
+
+		<hint_flowers_cover		value="Mensagem no visor: Tampa aberta."/>
+
+		<hint_terminal_button		value="O botão LIGAR está emperrado. Não consigo pressioná-lo."/>
+
+		<hint_terminal_remote		value="Posso usar o controle remoto para ligá-lo, mas precisarei alimentá-lo primeiro."/>
+
+		<hint_terminal_box		value="Então é para isso que servem esses fios. Posso colocar pilhas na caixa e fornecer energia para a yurt, se necessário."/>
+
+		<hint_terminal_box_empty		value="A caixa está conectada."/>
+
+		<hint_terminal_pillar		value="O suporte é móvel. Deve ter havido algo que se fixava nele."/>
+
+		<hint_terminal_sun_pillar		value="Serve. Vou fixá-lo mais tarde."/>
+
+		<hint_bedside_table_locked		value="Está fechado."/>
+
+		<hint_uv_nozzle		value="Acessório para lanterna."/>
+
+		<hint_uv_nozzle_useless		value="O acessório se encaixa nesta lanterna, mas não preciso dele agora."/>
+
+		<hint_who_am_i		value="«Quem sou eu?» Essa deve ser a pergunta que eu estava procurando."/>
+
+		<hint_chest_3_top_cover		value="Não vou abri-lo assim — o baú superior é muito pesado."/>
+
+		<hint_chest_2_cover		value="Este baú está fechado há muitos anos."/>
+
+		<hint_chest_2_bottom_cover		value="É muito pesado. Preciso remover o que está dentro para movê-lo."/>
+
+		<hint_chest_2_empty		value="Agora posso mover o baú."/>
+
+		<hint_ida_told		value="Choque elétrico para falar por alguns minutos…"/>
+
+		<hint_ida_fix		value="Se eu posicionar Ida verticalmente, poderei conectar aquele cabo que está soltando faíscas nela."/>
+
+		<hint_ida_place		value="Posso prender Ida aqui."/>
+
+		<hint_ida_spine_panel		value="Não removi a tampa de suas costas."/>
+
+		<ida_passij_msg		value="Enebish, lembrei quem eram aquelas pessoas. Aquelas cujo pássio era considerado mais valioso. Eram seus genes que as tornavam especiais. Seu DNA tinha menos erros. Em outras palavras, eram pessoas com boa hereditariedade. Essas pessoas produzem um tipo especial de pássio, que contém um componente valioso. Era esse componente que era necessário para combater o vírus, e não a substância toda. Era por isso que eles gozavam de tanto respeito — a luta da humanidade contra o vírus dependia deles. Naquela época, todos diziam que as emoções das pessoas bonitas eram a nossa salvação."/>
+
+		<ida_open_seven_door_msg		value="Você está na localização. Aguente firme, vou tentar abrir as portas."/>
+
+		<ida_open_two_door_msg		value="Estou vendo você. Abrindo."/>
+
+		<ida_open_six_door_msg		value="Estou vendo você. Entre."/>
+
+		<ida_outsiders_msg		value="Não sei se isso seria útil, mas… Havia pessoas que eram chamadas de «outsiders». Por alguma razão, elas procuravam espalhar o vírus da esterilidade.^Foi por causa delas que o vírus se tornou uma praga global. Mas como eles fizeram isso ou por quê… isso eu não me lembro…"/>
+
+		<ida_hq_msg		value="O número no baú é um quociente de hereditariedade pessoal. Todo mundo tem um. Você inclusive. Representa o grau de pureza do seu DNA. Em outras palavras, é o seu valor para a sociedade."/>
+
+		<ida_reflection_msg		value="Você queria saber sobre a tela-espelho… Quando você passa por uma transferência, coloca a palma da mão sobre a palma do seu futuro corpo e olha em seus olhos. É como olhar em um espelho… Mas esta parte é crucial — a transferência não pode acontecer sem ela. Então você é imerso em uma espécie de estado peculiar em que se vê de lado. A um sinal, você empurra com a palma da mão e um espelho aparece entre vocês. E então você está sozinho novamente. Em seu novo corpo."/>
+
+		<ida_look_inside_msg		value="Eu lhe contei sobre o espelho… entre você e seu antigo corpo… Então, o espelho é ligado no exato momento em que seu antigo corpo perde o direito do original. Ele é escondido para impedir que você veja seu rosto enquanto é executado. A razão é que às vezes há… contrações involuntárias… de imitação que se assemelham a um sorriso… Obviamente, isso é algo que é melhor não ser visto."/>
+
+		<ida_superiority_msg		value="A doença naquelas crianças não foi acidental. Antes de adoecer, havia algo… especial nelas. Algum tipo de qualidade útil. Essa qualidade supostamente lhes dava uma vantagem intelectual sobre os adultos."/>
+
+		<ida_morph_msg		value="Descobri que qualidade especial aquelas crianças tinham. Elas tinham percepção visual excepcionalmente desenvolvida. Visual e… estética. Para elas, a forma, a cor e coisas do tipo dos objetos ao redor eram de importância crítica. Algumas coisas eram belas aos seus olhos, outras a própria definição de feiura. E aqui está o ponto: elas estavam sempre em consenso… Mas foi exatamente essa habilidade que acabou se tornando sua ruína. Os detalhes, no entanto, ainda não sei."/>
+
+		<tv_show_msg		value="A razão é simples e evidente. A existência simultânea de duas cópias da mesma pessoa dá origem a problemas que não estamos preparados para enfrentar,^como claramente demonstrado pela triste experiência do passado recente. Por enquanto, a proibição estrita de duplicação e a desativação forçada de duplicatas existentes^  continuam sendo a única solução para a situação. As neurocópias desativadas são recolhidas em instalações de armazenamento seguras para provável reativação no futuro, quando uma solução legítima for encontrada.^Este é um dos casos em que…"/>
+
+		<ida_donor_msg		value="Descobri que tipo de falha o relatório se referia. Durante uma transferência, a capacidade de falar não foi bloqueada para uma das crianças. Isto é, ele estava… falando consigo mesmo. Com sua própria cópia."/>
+
+		<ida_first_work_day_msg			value="Sei por que havia tão pouca informação sobre mim. 15 de agosto foi meu primeiro dia de trabalho no Jardim de Gérberas. Eu tinha vindo aqui pela primeira vez, com aquele grupo de crianças, e a explosão ocorreu duas horas depois."/>
+		
+		<hint_game_saved				value="<font size=24 color=#D29B28>Jogo salvo</font>"/>
+		<pavilion_hurry_up				value="<font size=24 color=#D29B28>Depressa!</font><br/><br/>Você está ficando sem cubos."/>
+		<hint_ong_break_plumolive		value="Aqueles frutos vermelhos na árvore parecem comestíveis. Vou tentar encontrar algo para usá-los para derrubá-los."/>
+		<hint_ong_break_root_place		value="Uma raiz seca… Há algumas raízes penduradas do lado de fora."/>
+		<hint_ong_break_mortar			value="O pilão deve estar em algum lugar da louça."/>
+		<mess_actor_p4_tablet			value="O dispositivo tablet na mesa de cabeceira está pedindo uma senha… Ou é apenas minha imaginação?"/>
+		<mess_actor_p6_head_panel		value="Não removi o painel da cabeça dela."/>
+		<mess_actor_p6_busy				value="Não há espaço aqui. Preciso liberar um slot."/>
+		<mess_actor_p6_ida_details		value="Um dispositivo estranho na mesa amarela. Não tenho certeza do que é, mas suas partes são idênticas às figuras do cartaz."/>
+		<hint_flowers_close				value="Vai abrir novamente se eu esperar. Preciso mirar melhor da próxima vez."/>
+		<hint_terminal_remote_control	value="O controle remoto deve estar na yurt. Caiu em algum lugar debaixo da mesa ou da cama."/>
+		<hint_grave						value="No campo, entre as pedras, há um par de postes de madeira. O túmulo deve estar próximo."/>
+
+	</description>
+</dictionary>

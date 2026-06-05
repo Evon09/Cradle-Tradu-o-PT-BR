@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+	<creators>
+		<label_creators_01 value="Primeiro Autor"/>
+		<label_creators_02 value="Segundo Autor"/>
+		<label_creators_03 value="Terceiro Autor"/>
+		<label_creators_04 value="Quarto Autor"/>
+		<label_creators_05 value="Quinto Autor"/>
+		<label_creators_06 value="Sexto Autor"/>
+	</creators>
+</dictionary>

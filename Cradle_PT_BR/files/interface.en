@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary value="en">
+	<interface>
+		<BTN_APPLY value="Aplicar"/>
+		<BTN_CANCEL value="Cancelar"/>
+		<BTN_CLOSE value="Fechar"/>
+		<BTN_NO value="Não"/>
+		<BTN_OK value="OK"/>
+		<BTN_YES value="Sim"/>
+		<BTN_AUTHORS value="Autores"/>
+		<BTN_LOAD value="Carregar"/>
+		<BTN_LOAD_GAME value="Carregar Jogo"/>
+		<BTN_NEW_GAME value="Novo Jogo"/>
+		<BTN_OPTIONS value="Configurações"/>
+		<BTN_QUIT value="Sair"/>
+		<BTN_RESUME_GAME value="Retomar Jogo"/>
+		<BTN_SAVE_GAME value="Salvar Jogo"/>
+		<BTN_SKIP value="Pular"/>
+		<BTN_REPLAY value="Repetir"/>
+		<BTN_GAMEPAD value="Controle do Gamepad"/>
+		<LABEL_ENOUGH_CUBES value="Cubes suficientes?"/>
+		<LABEL_CHOISE value="Você pode pular esse mini-jogo."/>
+		<LABEL_STUDIO_PRESENT value="Estúdio Apresenta"/>
+		<LABEL_TUTORIAL value="Gostaria de fazer o tutorial?"/>
+		<LABEL_RESET_SAVES value="O progresso do jogo será resetado. Continuar?"/>
+		<LABEL_GRAPHIC value="Gráficos"/>
+		<LABEL_DETAIL value="Qualidade:"/>
+		<LABEL_RESOLUTION value="Resolução:"/>
+		<LABEL_MULTISAMPLE value="Antialiasing:"/>
+		<LABEL_FULLSCREEN value="Tela cheia"/>
+		<LABEL_VSYNC value="Sincronização vertical"/>
+		<LABEL_FOV value="Campo de visão:"/>
+		<LABEL_GAMMA value="Correção de gama:"/>
+		<LABEL_TEXTURES value="Texturas:"/>
+		<LABEL_FILTER value="Filtragem:"/>
+		<LABEL_ANISOTROPY value="Anisotropia:"/>
+		<LABEL_LOCALE value="Localização"/>
+		<LABEL_LANGUAGE value="Idioma:"/>
+		<LABEL_SOUND value="Som"/>
+		<LABEL_MUSIC_VOLUME value="Volume da música:"/>
+		<LABEL_SOUND_VOLUME value="Volume do som:"/>
+		<LABEL_CONTROLS value="Controles"/>
+		<LABEL_ALWAYS_RUN value="Correr sempre"/>
+		<LABEL_MOUSE_INVERSION_1 value="Mouse"/>
+		<LABEL_MOUSE_INVERSION_2 value="inversão"/>
+		<LABEL_MOUSE_SENSITY value="Sensibilidade do mouse:"/>
+		<LABEL_KEYS value="Teclas"/>
+		<LABEL_FORWARD value="Para frente:"/>
+		<LABEL_BACKWARD value="Para trás:"/>
+		<LABEL_LEFT value="Esquerda:"/>
+		<LABEL_RIGHT value="Direita:"/>
+		<LABEL_RUN value="Correr:"/>
+		<LABEL_JUMP value="Pular:"/>
+		<LABEL_DOWN value="Agachar:"/>
+		<LABEL_USE value="Interagir:"/>
+		<LABEL_THROW value="Lançar:"/>
+		<LABEL_INVENTORY value="Inventário:"/>
+		<LABEL_DIARY value="Diário:"/>
+		<LABEL_MENU value="Menu:"/>
+		<LABEL_GAME_RELOAD value="*Mudanças entram em vigor após reiniciar o jogo"/>
+		<label_quest_note value="Nota"/>
+		<label_quest_ongots_breakfast value="Café da manhã do Ongots"/>
+		<label_quest_ongots_wests value="Vests do Ongots"/>
+		<label_quest_enebish_diary value="Diário do Enebish"/>
+		<label_quest_favorite_toy value="Brinquedo favorito"/>
+		<label_quest_meet_Ida value="Vaso de flores"/>
+		<label_quest_emotion value="Valor Universal"/>
+		<label_quest_pavilion_01 value="Areias Eternas"/>
+		<label_quest_breathe_mod value="Segundo Ar"/>
+		<label_quest_tabaha value="Motorista"/>
+		<label_quest_most_beauty value="Mais belo"/>
+		<label_quest_get_look value="Reflexão"/>
+		<label_quest_pavilion_02 value="Ilhas Tropicais"/>
+		<label_quest_set_look value="Em uma nova luz"/>
+		<label_quest_get_battery value="Vantagem"/>
+		<label_quest_pavilion_03 value="País das Nuvens"/>
+		<label_quest_set_battery value="Morfofobia"/>
+		<label_quest_old_tv value="Notícias Diretas"/>
+		<label_quest_get_synchro value="Afterglow"/>
+		<label_quest_pavilion_04 value="Lagos Mágicos"/>
+		<label_quest_set_synchro value="No Anel do Silêncio"/>
+		<label_quest_batjin_message value="Palavras de Despedida"/>
+		<label_quest_some_letters value="Cartas Estrangeiras"/>
+		<label_quest_reanimation value="Novo Começo"/>
+		<authors						value="Jair.js (So traduzi kkkk) · Danil Akentiev · Artem Alexeev · Andrew Alexin · Egor Arkhipov, Mikhail Arkhipov · Mark Berelekhis · Yuliya Bespalova · Yurii Bisyk · Yuliya Butenko · Cagri Cankaya,
+												Anna Chyzh · Sviatoslav Davydenkov · Andriy Didenko · Anatolii Didok · Mykola Gatilov,
+												Brad Gunter · Oleg Iakovliev · Jaaared Jeffreis · Ihor Kaniuk · Oleksandr Kaplun,
+												Tamila Kamaeva · Jodi Kingsley · Taras Korostashov · Mariya Kotolovskaya · Aleksandr Kovach,
+												Eugene Kuchma · Dmitry Kudin · Sergii Kurbatov · Yevhen Lypskyi · Eugene Litvynov,
+												Roman Malinkin · Ievgen Malukha · Rossella Mangione · Mariana Mazur · Andrii Melnyk,
+												Oleksa Melnyk · Victor Merkulov · Pavel Mykhailov · Kostyantyn Myronov,
+												Kostiantyn Moharychev · Maxim Mongolsky · Valentine Parkhomenko · Viktor Patyerilo,
+												Ihor Pidstrela · Denys Rutkovskyi · Alexander Sablin · Volodymyr Savin · Alexander Sharamov,
+												Sophia Shul · Serhii Skoblei · Pavlo Skorokhodko · Ihor Solodrai · Davide Solbiati,
+												Liudmyla Starodub · Konstantin Stupivtsev · Anton Synyuk · Diana Tarnavska · Paul Tinsley,
+												Oleksiy Tischenko · Illya Tolmachov · Kateryna Tolmachova · Mykola Tolmachov,
+												Sergiy Tolmachov · Sergiy Tomashevs'kyj · Pavlo Tsikhan · Glen West · Mariia Zabarilo,
+												Evgeniy Zaitsev · Valeriia Zaremska · Liubov Zhiekova"/>
+<credits						value="
+			
+			Danil Akentiev,
+			Artem Alexeev,
+			Andrew Alexin,
+			Dmytro Andrushchenko,
+			Egor Arkhipov,
+			Mikhail Arkhipov,
+			Andriy Batalin,
+			Mark Berelekhis,
+			Yuliya Bespalova,
+			Yurii Bisyk,
+			Yuliya Butenko,
+			Cagri Cankaya,
+			Anna Chyzh,
+			Sviatoslav Davydenkov,
+			Andriy Didenko,
+			Anatolii Didok,
+			Cem Filiz,
+			Liudmyla Fomina,
+			Mykola Gatilov,
+			Oleksandra Glavatska,
+			Vanesa Gómez Paniza,
+			Brad Gunter,
+			Gaia Habert,
+			Oleg Iakovliev,
+			Jared Jeffreis,
+			Ihor Kaniuk,
+			Oleksandr Kaplun,
+			Maksym Kobzun,
+			Tamila Kamaeva,
+			Jodi Kingsley,
+			Rolf Klischewski,
+			Oleksandr Komyakhov,
+			Iana Korn,
+			Taras Korostashov,
+			Bedirhan Köse,
+			Mariya Kotolovskaya,
+			Aleksandr Kovach,
+			Eugene Kuchma,
+			Urszula Kuchmistrz,
+			Dmitry Kudin,
+			Sergii Kurbatov,
+			Yevhen Lypskyi,
+			Eugene Litvynov,
+			Krystian Machnik,
+			Words of Magic,
+			Roman Malinkin,
+			Ievgen Malukha,
+			Rossella Mangione,
+			Mariana Mazur,
+			Andrii Melnyk,
+			Oleksa Melnyk,
+			Stéphanie Menu,
+			Victor Merkulov,
+			Katerina Myachina,
+			Pavel Mykhailov,
+			Kostyantyn Myronov,
+			Kostiantyn Moharychev,
+			Maxim Mongolsky,
+			Anna Oliinyk,
+			Alp Sezer Orak,
+			Ceyhun Özgöç,
+			Valentine Parkhomenko,
+			Viktor Patyerilo,
+			Ihor Pidstrela,
+			Glib Platonov,
+			Oksana Proshutya,
+			Denys Rutkovskyi,
+			Alexander Sablin,
+			Volodymyr Savin,
+			Alexander Sharamov,
+			Sophia Shul,
+			Serhii Skoblei,
+			Pavlo Skorokhodko,
+			Ihor Solodrai,
+			Davide Solbiati,
+			Liudmyla Starodub,
+			Konstantin Stupivtsev,
+			Anton Synyuk,
+			Oleksii Sytianov,
+			Diana Tarnavska,
+			Paul Tinsley,
+			Oleksiy Tischenko,
+			Illya Tolmachov,
+			Kateryna Tolmachova,
+			Liudmyla Tolmachova,
+			Mykola Tolmachov,
+			Sergiy Tolmachov,
+			Sergiy Tomashevs'kyj,
+			Çınar Tuncer,
+			Pavlo Tsikhan,
+			Glen West,
+			Mariia Zabarilo,
+			Evgeniy Zaitsev,
+			Agustín Zammarrelli,
+			Valeriia Zaremska,
+			Liubov Zhiekova,
+			 ,
+------------------------------------------------------------------,
+			 ,
+<font size=20>Somos gratos à equipe de desenvolvimento da Unigine Engine</font>,
+<font size=20>pela assistência no lançamento deste projeto:</font>,
+			 ,
+			Andrey Bayun,
+			Dmitriy Kriventsov,
+			Andrey Kushner,
+			Andrey Viktorov,
+			Alexey Zagniy,
+			 ,
+------------------------------------------------------------------,
+			 ,
+<font size=20>Queremos agradecer aos nossos queridos amigos</font>,
+<font size=20>pela ajuda e crença no projeto:</font>,
+			 ,
+			Vyacheslav Aristov,
+			Natalia Beregova,
+			Igor Budasov,
+			Stanyslav Bukalo,
+			Aleksey Chmyir,
+			Vlas Gankevich,
+			Taya Gerasimova,
+			Elena Glavatskaya,
+			Igor Ivanov,
+			Marta Khanna,
+			Viktoria Kharitonchuk,
+			Olha Klipkova,
+			Volodymyr Kobersky,
+			Ilya Komarowski,
+			Andriyash Kozlovsky,
+			Evheniya Korablova,
+			Yuriy Korablov,
+			Ivan Kucherenko,
+			Andrey Levitskiy,
+			Leonid Litvynov,
+			Tatyana Litvynova,
+			Mykhaylo Lyuksikov,
+			Rostyslav Malko,
+			Andriy Malinkin,
+			Vasiliy Malinkin,
+			Denys Malinkin,
+			Olena Malinkina,
+			Svetlana Malinkina,
+			Evgeniy Manuilov,
+			Elena Marinich,
+			Pavel Markevych,
+			Riianda Masséus,
+			Oleh Miroshnychenko,
+			Konstantin Morozkov,
+			Vyacheslav Murygin,
+			Vitaliy Popeta,
+			Andrew Prohorov,
+			Aliaksei Rubanau,
+			Valentin Savenkov,
+			Vitaliy Sergienko,
+			Andrew Sirchenko,
+			Valeria Sytnik,
+			Anton Tishenko,
+			Oleksanr Ustinov,
+			Andriy Verpahovskiy,
+			Ruslan Yakovlev,
+			Maksym Yakymenko,
+			Leyla Zulfugarova,
+			 ,
+------------------------------------------------------------------,
+			 ,
+<font size=20>Agradecemos ao site www.cgtextures.com</font>,
+<font size=20>por nos fornecer acesso a fotos de alta qualidade.</font>,
+			 ,
+------------------------------------------------------------------,
+			 ,
+<font size=20>Agradecemos à</font>,
+<font size=20>direção do restaurante Barkas</font>,
+<font size=20>pela assistência nas filmagens do vídeo final.</font>,
+			 ,
+------------------------------------------------------------------,
+			 ,
+<font size=20>E nosso agradecimento especial vai para os fãs de Cradle</font>,
+<font size=20>pela paciência.</font>,
+			 ,
+			 ,
+<font size=20>Tradução realizada pelo Jair.js</font>,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+			 ,
+© Flying Cafe for Semianimals. 2015"/>
+	</interface>
+</dictionary>
