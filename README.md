@@ -19,7 +19,7 @@ O objetivo é tornar o jogo mais acessível para jogadores brasileiros.
 Siga os passos abaixo:
 
 1. Baixe este repositório (ou o arquivo de release).
-2. Extraia os arquivos para a pasta principal do jogo *Cradle*.
+2. Extraia os arquivos e coloque a pasta **Cradle_PT_BR** na raizd do jogo *Cradle*.
 3. Execute o arquivo `.bat` incluído.
 4. Aguarde o processo automático ser concluído.
 
